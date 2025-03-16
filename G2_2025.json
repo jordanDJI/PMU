@@ -1,0 +1,6491 @@
+[
+  {
+    "id": "8c45712c-c605-34fc-b043-93ff882d51fd",
+    "metaData": null,
+    "meetingId": "20250315-SIO",
+    "raceNumber": 4,
+    "raceName": "LINDA ISABELLE 2021",
+    "plannedStartTime": "19:50",
+    "actualStartTime": null,
+    "complexBetCode": false,
+    "runnersCount": null,
+    "distance": 1400,
+    "inquiryStatus": null,
+    "inquiryLabel": null,
+    "trackedRace": false,
+    "date": "2025-03-15",
+    "raceTime": "83.14",
+    "cei": null,
+    "anj": null,
+    "ranking": [
+      {
+        "rank": 1,
+        "runnerNumber": 3
+      },
+      {
+        "rank": 2,
+        "runnerNumber": 7
+      },
+      {
+        "rank": 3,
+        "runnerNumber": 11
+      },
+      {
+        "rank": 4,
+        "runnerNumber": 5
+      },
+      {
+        "rank": 5,
+        "runnerNumber": 6
+      },
+      {
+        "rank": 6,
+        "runnerNumber": 13
+      },
+      {
+        "rank": 7,
+        "runnerNumber": 1
+      },
+      {
+        "rank": 7,
+        "runnerNumber": 12
+      },
+      {
+        "rank": 9,
+        "runnerNumber": 9
+      },
+      {
+        "rank": 10,
+        "runnerNumber": 8
+      },
+      {
+        "rank": 11,
+        "runnerNumber": 2
+      },
+      {
+        "rank": 12,
+        "runnerNumber": 10
+      }
+    ],
+    "nonRunners": null,
+    "deleted": null,
+    "currency": null,
+    "peloton": null,
+    "handicapReferences": null,
+    "raceConditions": {
+      "fullConditions": "Pour pur sang femelle de trois ans (Allocations distribuées aux 5 premiers). L es informations concernant les partants sont communiquées sous la responsabili té de l'autorité hippique du pays dans lequel la course est organisée.",
+      "breedConditions": "PUR SANG",
+      "genderConditions": "Femelles",
+      "ageConditions": "3 ans",
+      "riderConditions": null
+    },
+    "earnings": {
+      "currency": "ARS",
+      "totalPool": 7233500,
+      "detailedEarnings": []
+    },
+    "betsOffering": null,
+    "officialResultTime": null,
+    "discipline": {
+      "code": "p",
+      "label": "Plat",
+      "language": "fr"
+    },
+    "raceStatus": null,
+    "startingMode": null,
+    "turn": {
+      "code": "G",
+      "label": "à gauche",
+      "language": "fr"
+    },
+    "raceType": null,
+    "raceCategory": {
+      "code": "COURSE A CONDITIONS",
+      "label": "COURSE A CONDITIONS",
+      "language": "fr"
+    },
+    "trackType": null,
+    "trackCondition": {
+      "measureTimestamp": null,
+      "measure": null,
+      "code": null,
+      "label": null
+    },
+    "racecourse": {
+      "code": "SIO",
+      "label": "SAN ISIDRO",
+      "countryCode": "AR",
+      "source": null,
+      "externalCode": null
+    },
+    "course": null,
+    "runners": [
+      {
+        "id": "80ee513b-5f6e-3185-b680-d45cced68efa",
+        "metaData": null,
+        "runnerNumber": 1,
+        "railPosition": 1,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-1.png",
+        "silksDescription": "BODY DARK CYAN, BLACK DIAMONDS, SLEEVES DARK CYAN, CAP BLACK",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "DIEGO PENA_G",
+          "name": "DIEGO PENA"
+        },
+        "rider": {
+          "id": "BRIAN RODRIGO ENRIQUE_G",
+          "name": "BRIAN RODRIGO ENRIQUE"
+        },
+        "owner": {
+          "id": "GRAN MUNECA_G",
+          "name": "GRAN MUNECA"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 7,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "fa19fbc8-24af-3fce-a3b0-319c58a34f67",
+          "funcId": "CHARAMBITA-CHARLATANA KEY-FORTIFY",
+          "sireNumber": null,
+          "name": "CHARAMBITA",
+          "dateOfBirth": "2021-08-14",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BLANC",
+            "label": "BLANC",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "bbcc6893-6c47-3822-97c6-c7750ee25231",
+            "funcId": "FORTIFY--",
+            "sireNumber": null,
+            "name": "FORTIFY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "57723013-e506-3ea8-8a6d-d5f4e05cff50",
+            "funcId": "CHARLATANA KEY--KEY DEPUTY",
+            "sireNumber": null,
+            "name": "CHARLATANA KEY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "bbcc6893-6c47-3822-97c6-c7750ee25231",
+              "funcId": "FORTIFY--",
+              "sireNumber": null,
+              "name": "FORTIFY",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "2 L",
+          "label": "2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": null,
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "c5de841d-314c-3671-89ef-24a2df6aa2fe",
+        "metaData": null,
+        "runnerNumber": 2,
+        "railPosition": 2,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-2.png",
+        "silksDescription": "BODY GREEN, WHITE QUARTERED, RED COLLAR, SLEEVES RED, CAP GR",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "PABLO GUSTAVO FALERO_G",
+          "name": "PABLO GUSTAVO FALERO"
+        },
+        "rider": {
+          "id": "NON COMMUNIQUE_G",
+          "name": "NON COMMUNIQUE"
+        },
+        "owner": {
+          "id": "LOS CABEZAS (LP)_G",
+          "name": "LOS CABEZAS (LP)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 11,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "734a5f0d-7e9c-36ee-a08d-a8dc90a43afc",
+          "funcId": "PORTUGUESA MIA-ILLESTEVA-TODO UN AMIGUITO",
+          "sireNumber": null,
+          "name": "PORTUGUESA MIA",
+          "dateOfBirth": "2021-11-15",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "d2ef26b6-53e8-3c77-a27a-b8d45d13d3fb",
+            "funcId": "TODO UN AMIGUITO--",
+            "sireNumber": null,
+            "name": "TODO UN AMIGUITO",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "689bef42-73ad-35b0-ad96-28990f06e862",
+            "funcId": "ILLESTEVA--EASING ALONG",
+            "sireNumber": null,
+            "name": "ILLESTEVA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "d2ef26b6-53e8-3c77-a27a-b8d45d13d3fb",
+              "funcId": "TODO UN AMIGUITO--",
+              "sireNumber": null,
+              "name": "TODO UN AMIGUITO",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "8 L",
+          "label": "8 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [
+          "LUNA CURIOSA-THIRTEEN MOONS-SAFETY CHECK"
+        ],
+        "records": "8p0p0p0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 4,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "7f91956c-1e00-3506-9d2b-343f2ba5932a",
+        "metaData": null,
+        "runnerNumber": 3,
+        "railPosition": 3,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-3.png",
+        "silksDescription": "BODY BLUE, WHITE HALVED (HORIZONTALLY), SLEEVES BLUE, CAP BL",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "PABLO GUSTAVO FALERO_G",
+          "name": "PABLO GUSTAVO FALERO"
+        },
+        "rider": {
+          "id": "JUAN PABLO PAOLONI_G",
+          "name": "JUAN PABLO PAOLONI"
+        },
+        "owner": {
+          "id": "VILLA DEL CERRO (DOL)_G",
+          "name": "VILLA DEL CERRO (DOL)"
+        },
+        "timeRecord": "83",
+        "pace": "59",
+        "rank": 1,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "2db679a3-63aa-362b-abed-c275577dbccf",
+          "funcId": "VINICIUS GIRL-VIP CLASS-JAPAN",
+          "sireNumber": null,
+          "name": "VINICIUS GIRL",
+          "dateOfBirth": "2021-10-22",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "c55aeafa-2de5-3939-a29c-ed9908098929",
+            "funcId": "JAPAN--",
+            "sireNumber": null,
+            "name": "JAPAN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "9788ab34-2d7e-3587-b883-93006df347c9",
+            "funcId": "VIP CLASS--NORTHERN AFLEET",
+            "sireNumber": null,
+            "name": "VIP CLASS",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "BR",
+              "label": "Brésil",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "c55aeafa-2de5-3939-a29c-ed9908098929",
+              "funcId": "JAPAN--",
+              "sireNumber": null,
+              "name": "JAPAN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": null,
+        "trainingCountry": null,
+        "comparableOpponents": [
+          "TREJA GIRL-TREJA-ASIATIC BOY",
+          "LUNA CURIOSA-THIRTEEN MOONS-SAFETY CHECK"
+        ],
+        "records": "4p2p0p8p",
+        "earnings": 5380000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 5380000,
+            "careerWin": null,
+            "careerPlace": 5380000,
+            "currentYearTotal": 3070000,
+            "lastYearTotal": 2310000
+          },
+          "participations": {
+            "careerTotal": 4,
+            "careerWin": null,
+            "careerPlace": 3,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "f34a30fc-ce10-3f63-8b32-f49b16f4c41a",
+        "metaData": null,
+        "runnerNumber": 4,
+        "railPosition": 4,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-4.png",
+        "silksDescription": "BODY DIM GREY, BLACK CHEVRON, SLEEVES DIM GREY, BLACK HALVED",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "JAVIER ELADIO SERRA_G",
+          "name": "JAVIER ELADIO SERRA"
+        },
+        "rider": {
+          "id": "NON COMMUNIQUE 1_G",
+          "name": "NON COMMUNIQUE 1"
+        },
+        "owner": {
+          "id": "DON KUKI_G",
+          "name": "DON KUKI"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": null,
+        "finishComment": null,
+        "blinkers": {
+          "code": "A",
+          "label": "Australiennes",
+          "language": "fr"
+        },
+        "status": {
+          "code": "NP",
+          "label": "Non partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "fd4b904d-f947-3ec7-bd3b-8a51301f2c83",
+          "funcId": "BEATA FORTE-BESUQUEIRA INC-FORTIFY",
+          "sireNumber": null,
+          "name": "BEATA FORTE",
+          "dateOfBirth": "2021-09-06",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "bbcc6893-6c47-3822-97c6-c7750ee25231",
+            "funcId": "FORTIFY--",
+            "sireNumber": null,
+            "name": "FORTIFY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "adf4175d-e75e-31c6-8bb8-ccf566c3fe3f",
+            "funcId": "BESUQUEIRA INC--",
+            "sireNumber": null,
+            "name": "BESUQUEIRA INC",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "bbcc6893-6c47-3822-97c6-c7750ee25231",
+              "funcId": "FORTIFY--",
+              "sireNumber": null,
+              "name": "FORTIFY",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": null,
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p7p6p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 3,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "65eda9b7-5b3c-3ef1-a588-be821f17feac",
+        "metaData": null,
+        "runnerNumber": 5,
+        "railPosition": 5,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-5.png",
+        "silksDescription": "BODY DIM GREY, YELLOW DIAMONDS, SLEEVES DIM GREY, CAP YELLOW",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "MIGUEL ANGEL CAFERE_G",
+          "name": "MIGUEL ANGEL CAFERE"
+        },
+        "rider": {
+          "id": "JUAN CRUZ VILLAGRA_G",
+          "name": "JUAN CRUZ VILLAGRA"
+        },
+        "owner": {
+          "id": "MAMINA_G",
+          "name": "MAMINA"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 4,
+        "finishComment": null,
+        "blinkers": {
+          "code": "A",
+          "label": "Australiennes",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "2a5236bd-47fd-39cb-8312-797977e8b175",
+          "funcId": "TREJA GIRL-TREJA-ASIATIC BOY",
+          "sireNumber": null,
+          "name": "TREJA GIRL",
+          "dateOfBirth": "2021-10-16",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "f2d63755-9791-31e1-a24e-acb150131c21",
+            "funcId": "ASIATIC BOY--",
+            "sireNumber": null,
+            "name": "ASIATIC BOY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "d93ce416-489a-3d29-84b3-a225d402e248",
+            "funcId": "TREJA--",
+            "sireNumber": null,
+            "name": "TREJA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "f2d63755-9791-31e1-a24e-acb150131c21",
+              "funcId": "ASIATIC BOY--",
+              "sireNumber": null,
+              "name": "ASIATIC BOY",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "6 L",
+          "label": "6 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [
+          "VINICIUS GIRL-VIP CLASS-JAPAN"
+        ],
+        "records": "0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "d71b415f-385e-3d11-b747-4b3dbcaef988",
+        "metaData": null,
+        "runnerNumber": 6,
+        "railPosition": 6,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-6.png",
+        "silksDescription": "BODY WHITE, BLACK SPADE, SLEEVES FIRE BRICK, CAP WHITE, FIRE",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "ROBERTO ANDRES PELLEGATTA_G",
+          "name": "ROBERTO ANDRES PELLEGATTA"
+        },
+        "rider": {
+          "id": "FRANCISCO JESUS LAVIGNA_G",
+          "name": "FRANCISCO JESUS LAVIGNA"
+        },
+        "owner": {
+          "id": "AS DE PICAS (GCHU)_G",
+          "name": "AS DE PICAS (GCHU)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 5,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "ed8223bb-6086-3e77-8555-c55bf4247db9",
+          "funcId": "DUA-AREEJ-LUCULLAN",
+          "sireNumber": null,
+          "name": "DUA",
+          "dateOfBirth": "2021-07-23",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BLANC",
+            "label": "BLANC",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "77bf7c59-a504-3b2c-86f6-f0b2eee08a1b",
+            "funcId": "LUCULLAN--",
+            "sireNumber": null,
+            "name": "LUCULLAN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "0cce0a7d-8a7a-3cb5-9d57-cd95823b5b71",
+            "funcId": "AREEJ--ASIATIC BOY",
+            "sireNumber": null,
+            "name": "AREEJ",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "77bf7c59-a504-3b2c-86f6-f0b2eee08a1b",
+              "funcId": "LUCULLAN--",
+              "sireNumber": null,
+              "name": "LUCULLAN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "5 L",
+          "label": "5 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": null,
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "982d2d1a-d8af-3e14-90ba-0b025b2bf750",
+        "metaData": null,
+        "runnerNumber": 7,
+        "railPosition": 7,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-7.png",
+        "silksDescription": "BODY ROYAL BLUE, YELLOW CIRCLE, SLEEVES YELLOW, ROYAL BLUE C",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "JOSE ANTONIO LOFIEGO_G",
+          "name": "JOSE ANTONIO LOFIEGO"
+        },
+        "rider": {
+          "id": "ADRIAN MAXIMILIANO GIANNETTI_G",
+          "name": "ADRIAN MAXIMILIANO GIANNETTI"
+        },
+        "owner": {
+          "id": "DOBLE O.O. (GGCHU)_G",
+          "name": "DOBLE O.O. (GGCHU)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 2,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "c61cda38-88ce-3653-9dd8-2ceffeae2b40",
+          "funcId": "LUNA CURIOSA-THIRTEEN MOONS-SAFETY CHECK",
+          "sireNumber": null,
+          "name": "LUNA CURIOSA",
+          "dateOfBirth": "2021-07-30",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "351a5b1b-6024-3496-ba85-253319a7dc78",
+            "funcId": "SAFETY CHECK--",
+            "sireNumber": null,
+            "name": "SAFETY CHECK",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "IE",
+              "label": "Irlande",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "739e4929-c6c8-34ba-bf45-d1d7856516d6",
+            "funcId": "THIRTEEN MOONS--CHEROKEE RUN",
+            "sireNumber": null,
+            "name": "THIRTEEN MOONS",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "351a5b1b-6024-3496-ba85-253319a7dc78",
+              "funcId": "SAFETY CHECK--",
+              "sireNumber": null,
+              "name": "SAFETY CHECK",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "IE",
+                "label": "Irlande",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "2 L",
+          "label": "2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [
+          "VINICIUS GIRL-VIP CLASS-JAPAN",
+          "PORTUGUESA MIA-ILLESTEVA-TODO UN AMIGUITO"
+        ],
+        "records": "3p4p0p",
+        "earnings": 2470000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 2470000,
+            "careerWin": null,
+            "careerPlace": 2470000,
+            "currentYearTotal": 2140000,
+            "lastYearTotal": 330000
+          },
+          "participations": {
+            "careerTotal": 3,
+            "careerWin": null,
+            "careerPlace": 3,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "b989f172-85c1-3325-b9c1-c6c92ad0491b",
+        "metaData": null,
+        "runnerNumber": 8,
+        "railPosition": 8,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-8.png",
+        "silksDescription": "BODY AQUAMARINE, WHITE TRIANGLE, BLACK BUTTONS, SLEEVES WHIT",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "CARLOS ERNESTO ACEVEDO_G",
+          "name": "CARLOS ERNESTO ACEVEDO"
+        },
+        "rider": {
+          "id": "NON COMMUNIQUE 2_G",
+          "name": "NON COMMUNIQUE 2"
+        },
+        "owner": {
+          "id": "EL PLATERO_G",
+          "name": "EL PLATERO"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 10,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "16129ab3-c009-3887-b313-111fd3c05689",
+          "funcId": "DISTRACCION FATAL-DISTAR-LUCULLAN",
+          "sireNumber": null,
+          "name": "DISTRACCION FATAL",
+          "dateOfBirth": "2021-07-20",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "77bf7c59-a504-3b2c-86f6-f0b2eee08a1b",
+            "funcId": "LUCULLAN--",
+            "sireNumber": null,
+            "name": "LUCULLAN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "24501daf-b377-3c7d-b8a4-9dfaacb84938",
+            "funcId": "DISTAR--",
+            "sireNumber": null,
+            "name": "DISTAR",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "77bf7c59-a504-3b2c-86f6-f0b2eee08a1b",
+              "funcId": "LUCULLAN--",
+              "sireNumber": null,
+              "name": "LUCULLAN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "ENCOLURE",
+          "label": "Encolure",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p6p7p7p",
+        "earnings": 2452000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 2452000,
+            "careerWin": null,
+            "careerPlace": 2452000,
+            "currentYearTotal": 2452000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 7,
+            "careerWin": null,
+            "careerPlace": 3,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "cc7d45d4-e7f3-3d41-b738-16cc0e794400",
+        "metaData": null,
+        "runnerNumber": 9,
+        "railPosition": 9,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-9.png",
+        "silksDescription": "BODY FIRE BRICK, YELLOW CROSS OF LORRAINE, SLEEVES FIRE BRIC",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "CARLOS DANIEL ETCHECHOURY_G",
+          "name": "CARLOS DANIEL ETCHECHOURY"
+        },
+        "rider": {
+          "id": "EDUARDO ORTEGA PAVON_G",
+          "name": "EDUARDO ORTEGA PAVON"
+        },
+        "owner": {
+          "id": "HARAS EL ANGEL DE VENECIA(SFE)_G",
+          "name": "HARAS EL ANGEL DE VENECIA(SFE)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 9,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "02dbab82-21cf-3fdc-8989-d9705567cbac",
+          "funcId": "WANDA VISION-MARIAN SH TEMPLE-GLOBAL HUNTER",
+          "sireNumber": null,
+          "name": "WANDA VISION",
+          "dateOfBirth": "2021-10-25",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "6bb0297a-fc4d-3b96-bc99-ccec4ebc79d3",
+            "funcId": "GLOBAL HUNTER--",
+            "sireNumber": null,
+            "name": "GLOBAL HUNTER",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "79a72037-9a89-3c09-a709-95b0741b3be9",
+            "funcId": "MARIAN SH TEMPLE--",
+            "sireNumber": null,
+            "name": "MARIAN SH TEMPLE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "6bb0297a-fc4d-3b96-bc99-ccec4ebc79d3",
+              "funcId": "GLOBAL HUNTER--",
+              "sireNumber": null,
+              "name": "GLOBAL HUNTER",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "1/2 L",
+          "label": "1/2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "8p",
+        "earnings": 120000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 120000,
+            "careerWin": null,
+            "careerPlace": 120000,
+            "currentYearTotal": 120000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": 1,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "1e655d8e-7af3-3da6-855c-7c118a96157c",
+        "metaData": null,
+        "runnerNumber": 10,
+        "railPosition": 10,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-10.png",
+        "silksDescription": "BODY BLACK, RED CHEVRON, SLEEVES BLACK, RED CHEVRONS, WHITE",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "GUILLERMO ARIEL GARCIA_G",
+          "name": "GUILLERMO ARIEL GARCIA"
+        },
+        "rider": {
+          "id": "AGUSTINA BELEN VALDEZ_G",
+          "name": "AGUSTINA BELEN VALDEZ"
+        },
+        "owner": {
+          "id": "STUD VALDI_G",
+          "name": "STUD VALDI"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 12,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "6ee4e63c-e0d3-3acc-859c-2392f488b3ab",
+          "funcId": "ABRA DEL HINOJO-TUSCARORA-ANGIOLO",
+          "sireNumber": null,
+          "name": "ABRA DEL HINOJO",
+          "dateOfBirth": "2021-09-09",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "CH",
+            "label": "CHOCOLAT",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "0869cf70-bec6-357a-9d02-495226b22d02",
+            "funcId": "ANGIOLO--",
+            "sireNumber": null,
+            "name": "ANGIOLO",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "0f14cf1e-0219-32e8-a9c7-10474dd5835d",
+            "funcId": "TUSCARORA--",
+            "sireNumber": null,
+            "name": "TUSCARORA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "0869cf70-bec6-357a-9d02-495226b22d02",
+              "funcId": "ANGIOLO--",
+              "sireNumber": null,
+              "name": "ANGIOLO",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "6 L",
+          "label": "6 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "9p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "0465bb0c-e9ce-378e-a596-8a4c0ef9a66a",
+        "metaData": null,
+        "runnerNumber": 11,
+        "railPosition": 11,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-11.png",
+        "silksDescription": "BODY DARK GREEN, MIDNIGHT BLUE 2 STRIPE, YELLOW STRIPE, SLEE",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "NICOLAS MARTIN FERRO_G",
+          "name": "NICOLAS MARTIN FERRO"
+        },
+        "rider": {
+          "id": "FRANCISCO LEANDRO FERNANDES GONC_G",
+          "name": "FRANCISCO LEANDRO FERNANDES GONC"
+        },
+        "owner": {
+          "id": "HARAS POZO DE LUNA_G",
+          "name": "HARAS POZO DE LUNA"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 3,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "119db412-0cf7-3676-b883-b41f3f22d6d0",
+          "funcId": "UNAMUNIANA-UNA LADY-CIMA DE TRIOMPHE",
+          "sireNumber": null,
+          "name": "UNAMUNIANA",
+          "dateOfBirth": "2021-08-15",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "346d8b5b-9289-3669-b04b-053b6997c66f",
+            "funcId": "CIMA DE TRIOMPHE--",
+            "sireNumber": "46975777",
+            "name": "CIMA DE TRIOMPHE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "IE",
+              "label": "Irlande",
+              "language": "fr"
+            },
+            "breed": {
+              "code": "PS",
+              "label": "Pur-sang",
+              "language": "fr"
+            },
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "ba1ce793-6e60-355b-9659-4c34a7299b22",
+            "funcId": "UNA LADY--EXCHANGE RATE",
+            "sireNumber": null,
+            "name": "UNA LADY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "346d8b5b-9289-3669-b04b-053b6997c66f",
+              "funcId": "CIMA DE TRIOMPHE--",
+              "sireNumber": "46975777",
+              "name": "CIMA DE TRIOMPHE",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "IE",
+                "label": "Irlande",
+                "language": "fr"
+              },
+              "breed": {
+                "code": "PS",
+                "label": "Pur-sang",
+                "language": "fr"
+              },
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "3/4 L",
+          "label": "3/4 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [
+          "OMARI-SANDY LANE-TREASURE BEACH"
+        ],
+        "records": "4p2p7p0p",
+        "earnings": 7022000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 7022000,
+            "careerWin": null,
+            "careerPlace": 7022000,
+            "currentYearTotal": 3190000,
+            "lastYearTotal": 3832000
+          },
+          "participations": {
+            "careerTotal": 8,
+            "careerWin": null,
+            "careerPlace": 5,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "f9ff671b-eb86-3e46-b007-f43994dba1e0",
+        "metaData": null,
+        "runnerNumber": 12,
+        "railPosition": 12,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-12.png",
+        "silksDescription": "BODY WHITE, PINK HOOPED, DARK SLATE BLUE HOOPED, SLEEVES WHI",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "CHRISTIAN RUBEN FORASTIERO_G",
+          "name": "CHRISTIAN RUBEN FORASTIERO"
+        },
+        "rider": {
+          "id": "NON COMMUNIQUE 3_G",
+          "name": "NON COMMUNIQUE 3"
+        },
+        "owner": {
+          "id": "MAYFLOWER_G",
+          "name": "MAYFLOWER"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 7,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "990d6528-2d89-3414-9289-124ef59ddfd4",
+          "funcId": "OMARI-SANDY LANE-TREASURE BEACH",
+          "sireNumber": null,
+          "name": "OMARI",
+          "dateOfBirth": "2021-07-05",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "bf30a1ef-6782-3306-928c-d1dcadc5178b",
+            "funcId": "TREASURE BEACH--",
+            "sireNumber": null,
+            "name": "TREASURE BEACH",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "GB",
+              "label": "Royaume-Uni",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "7a025ad4-d6a5-30fe-95ab-eaefb3b547ee",
+            "funcId": "SANDY LANE--",
+            "sireNumber": null,
+            "name": "SANDY LANE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "bf30a1ef-6782-3306-928c-d1dcadc5178b",
+              "funcId": "TREASURE BEACH--",
+              "sireNumber": null,
+              "name": "TREASURE BEACH",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "GB",
+                "label": "Royaume-Uni",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "DEAD-HEAT",
+          "label": "Dead-heat",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [
+          "UNAMUNIANA-UNA LADY-CIMA DE TRIOMPHE"
+        ],
+        "records": "0p2p2p3p",
+        "earnings": 19674000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 19674000,
+            "careerWin": null,
+            "careerPlace": 19674000,
+            "currentYearTotal": null,
+            "lastYearTotal": 19674000
+          },
+          "participations": {
+            "careerTotal": 8,
+            "careerWin": null,
+            "careerPlace": 7,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "5de2a37e-bbeb-3f9f-9cae-c5a2d85f17ac",
+        "metaData": null,
+        "runnerNumber": 13,
+        "railPosition": 13,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250315/SIO/4/20250315-SIO-4-13.png",
+        "silksDescription": "BODY RED, SLEEVES RED, FOREST GREEN HOOPED, CAP RED",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "CARLOS DANIEL ETCHECHOURY_G",
+          "name": "CARLOS DANIEL ETCHECHOURY"
+        },
+        "rider": {
+          "id": "KEVIN BANEGAS_G",
+          "name": "KEVIN BANEGAS"
+        },
+        "owner": {
+          "id": "LA NORA_G",
+          "name": "LA NORA"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 6,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "c3e1b3c9-b3b9-366d-b3ad-e86aada3d37c",
+          "funcId": "DANGEROUS WAY-EMANECIDA-COSMIC TRIGGER",
+          "sireNumber": null,
+          "name": "DANGEROUS WAY",
+          "dateOfBirth": "2021-09-03",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "1c03f601-1cbb-3c51-9fc5-19e2795fc052",
+            "funcId": "COSMIC TRIGGER--",
+            "sireNumber": null,
+            "name": "COSMIC TRIGGER",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "76081105-fa6c-3146-b558-2a9e7ff116a7",
+            "funcId": "EMANECIDA--",
+            "sireNumber": null,
+            "name": "EMANECIDA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "1c03f601-1cbb-3c51-9fc5-19e2795fc052",
+              "funcId": "COSMIC TRIGGER--",
+              "sireNumber": null,
+              "name": "COSMIC TRIGGER",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "4 L",
+          "label": "4 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "9p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "b934f351-f42d-3127-bbac-c694ba06551d",
+    "metaData": null,
+    "meetingId": "20250117-SIO",
+    "raceNumber": 8,
+    "raceName": "LE CORNETTE 2022 (1° TURNO)",
+    "plannedStartTime": "21:45",
+    "actualStartTime": null,
+    "complexBetCode": false,
+    "runnersCount": null,
+    "distance": 1400,
+    "inquiryStatus": null,
+    "inquiryLabel": null,
+    "trackedRace": false,
+    "date": "2025-01-17",
+    "raceTime": "82.57",
+    "cei": null,
+    "anj": true,
+    "ranking": [
+      {
+        "rank": 1,
+        "runnerNumber": 7
+      },
+      {
+        "rank": 2,
+        "runnerNumber": 6
+      },
+      {
+        "rank": 3,
+        "runnerNumber": 3
+      },
+      {
+        "rank": 4,
+        "runnerNumber": 4
+      },
+      {
+        "rank": 5,
+        "runnerNumber": 2
+      },
+      {
+        "rank": 6,
+        "runnerNumber": 9
+      },
+      {
+        "rank": 7,
+        "runnerNumber": 10
+      },
+      {
+        "rank": 8,
+        "runnerNumber": 5
+      },
+      {
+        "rank": 9,
+        "runnerNumber": 11
+      },
+      {
+        "rank": 10,
+        "runnerNumber": 1
+      },
+      {
+        "rank": 11,
+        "runnerNumber": 8
+      },
+      {
+        "rank": 12,
+        "runnerNumber": 12
+      }
+    ],
+    "nonRunners": null,
+    "deleted": null,
+    "currency": null,
+    "peloton": null,
+    "handicapReferences": null,
+    "raceConditions": {
+      "fullConditions": "Pour pur sang femelle de trois ans (Allocations distribuées aux 5 premiers). L es informations concernant les partants sont communiquées sous la responsabili té de l'autorité hippique du pays dans lequel la course est organisée.",
+      "breedConditions": "PUR SANG",
+      "genderConditions": "Femelles",
+      "ageConditions": "3 ans",
+      "riderConditions": null
+    },
+    "earnings": {
+      "currency": "ARS",
+      "totalPool": 5610000,
+      "detailedEarnings": []
+    },
+    "betsOffering": null,
+    "officialResultTime": null,
+    "discipline": {
+      "code": "p",
+      "label": "Plat",
+      "language": "fr"
+    },
+    "raceStatus": null,
+    "startingMode": null,
+    "turn": {
+      "code": "G",
+      "label": "à gauche",
+      "language": "fr"
+    },
+    "raceType": null,
+    "raceCategory": {
+      "code": "COURSE A CONDITIONS_ICP",
+      "label": "null",
+      "language": "fr"
+    },
+    "trackType": null,
+    "trackCondition": {
+      "measureTimestamp": null,
+      "measure": null,
+      "code": null,
+      "label": null
+    },
+    "racecourse": {
+      "code": "SIO",
+      "label": "SAN ISIDRO",
+      "countryCode": "AR",
+      "source": null,
+      "externalCode": null
+    },
+    "course": null,
+    "runners": [
+      {
+        "id": "85e3ab78-c273-35f3-a0de-0c8010d0f1e4",
+        "metaData": null,
+        "runnerNumber": 1,
+        "railPosition": 1,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-1.png",
+        "silksDescription": "BODY MIDNIGHT BLUE, WHITE BUTTONS, SLEEVES RED, MIDNIGHT BLU",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "LUCIANO RUBEN CERUTTI_G",
+          "name": "LUCIANO RUBEN CERUTTI"
+        },
+        "rider": {
+          "id": "JORGE LUIS PERALTA_G",
+          "name": "JORGE LUIS PERALTA"
+        },
+        "owner": {
+          "id": "CARAMPANGUE_G",
+          "name": "CARAMPANGUE"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 10,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "0406c6bb-d882-3064-9e89-e9df2c7d14e8",
+          "funcId": "PLUSH-PINK PONY-ORPEN",
+          "sireNumber": null,
+          "name": "PLUSH",
+          "dateOfBirth": "2021-09-26",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BL_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "e372d936-1f4c-3e45-b2f3-0e8bf721885e",
+            "funcId": "ORPEN--",
+            "sireNumber": "46947470",
+            "name": "ORPEN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": {
+              "code": "PS",
+              "label": "Pur-sang",
+              "language": "fr"
+            },
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "aae30c4a-ebf5-3f25-9513-2784fcdf74b2",
+            "funcId": "PINK PONY--",
+            "sireNumber": null,
+            "name": "PINK PONY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "e372d936-1f4c-3e45-b2f3-0e8bf721885e",
+              "funcId": "ORPEN--",
+              "sireNumber": "46947470",
+              "name": "ORPEN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": {
+                "code": "PS",
+                "label": "Pur-sang",
+                "language": "fr"
+              },
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "1/2 L",
+          "label": "1/2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": 1,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "6e92dbd9-8c28-37d7-9388-8e0e8a4e98f9",
+        "metaData": null,
+        "runnerNumber": 2,
+        "railPosition": 2,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-2.png",
+        "silksDescription": "BODY ORANGE, SADDLE BROWN DIAMOND, SLEEVES VIOLET, CAP SADDL",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "AGUSTIN RUBEN DUARTE_G",
+          "name": "AGUSTIN RUBEN DUARTE"
+        },
+        "rider": {
+          "id": "JUAN CRUZ VILLAGRA_G",
+          "name": "JUAN CRUZ VILLAGRA"
+        },
+        "owner": {
+          "id": "LOS HALCONES_G",
+          "name": "LOS HALCONES"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 5,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "12e6a727-6242-3e00-8168-0a950604e7c3",
+          "funcId": "NADIL-NICARAGUA-IL MERCATO",
+          "sireNumber": null,
+          "name": "NADIL",
+          "dateOfBirth": "2021-07-22",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "20715e16-4dd2-312a-b53d-b2ce6a3b4959",
+            "funcId": "IL MERCATO--",
+            "sireNumber": null,
+            "name": "IL MERCATO",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "UY",
+              "label": "Uruguay",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "de8c451b-306d-3430-9431-495eb565e0e5",
+            "funcId": "NICARAGUA--BERNSTEIN",
+            "sireNumber": null,
+            "name": "NICARAGUA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "20715e16-4dd2-312a-b53d-b2ce6a3b4959",
+              "funcId": "IL MERCATO--",
+              "sireNumber": null,
+              "name": "IL MERCATO",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "UY",
+                "label": "Uruguay",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "TETE",
+          "label": "Tête",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "4p5p4p0p",
+        "earnings": 3246000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 3246000,
+            "careerWin": null,
+            "careerPlace": 3246000,
+            "currentYearTotal": null,
+            "lastYearTotal": 3246000
+          },
+          "participations": {
+            "careerTotal": 4,
+            "careerWin": null,
+            "careerPlace": 3,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "ffdd0d6e-995b-3df2-97d0-bde26e1403dd",
+        "metaData": null,
+        "runnerNumber": 3,
+        "railPosition": 3,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-3.png",
+        "silksDescription": "BODY WHITE, DARK BLUE CHEVRON HOOP, RED CIRCLE, SLEEVES WHIT",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "ENRIQUE MARTIN FERRO_G",
+          "name": "ENRIQUE MARTIN FERRO"
+        },
+        "rider": {
+          "id": "WILFRIDO A. TORRES MALDONADO_G",
+          "name": "WILFRIDO A. TORRES MALDONADO"
+        },
+        "owner": {
+          "id": "STUD MESA ALVEAR (SI)_G",
+          "name": "STUD MESA ALVEAR (SI)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 3,
+        "finishComment": null,
+        "blinkers": {
+          "code": "A",
+          "label": "Australiennes",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "1551ca2c-99b1-36d2-b796-cc7e3752841e",
+          "funcId": "ESPOUSE-DIVA ROMANA-IL CAMPIONE",
+          "sireNumber": null,
+          "name": "ESPOUSE",
+          "dateOfBirth": "2021-07-30",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "90eedd65-558f-3397-9ffa-9c0821cea627",
+            "funcId": "IL CAMPIONE--",
+            "sireNumber": null,
+            "name": "IL CAMPIONE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "3d07f5e0-85dd-3f2e-905f-e928bf2c8191",
+            "funcId": "DIVA ROMANA--",
+            "sireNumber": null,
+            "name": "DIVA ROMANA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "90eedd65-558f-3397-9ffa-9c0821cea627",
+              "funcId": "IL CAMPIONE--",
+              "sireNumber": null,
+              "name": "IL CAMPIONE",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "4 L",
+          "label": "4 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "2p5p2p5p",
+        "earnings": 8945000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 8945000,
+            "careerWin": null,
+            "careerPlace": 8945000,
+            "currentYearTotal": null,
+            "lastYearTotal": 8945000
+          },
+          "participations": {
+            "careerTotal": 7,
+            "careerWin": null,
+            "careerPlace": 6,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "1be21d0c-5d9b-3d67-b4fb-10908817eec3",
+        "metaData": null,
+        "runnerNumber": 4,
+        "railPosition": 4,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-4.png",
+        "silksDescription": "BODY ROYAL BLUE, YELLOW CIRCLE, SLEEVES YELLOW, ROYAL BLUE C",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "JOSE ANTONIO LOFIEGO_G",
+          "name": "JOSE ANTONIO LOFIEGO"
+        },
+        "rider": {
+          "id": "ADRIAN MAXIMILIANO GIANNETTI_G",
+          "name": "ADRIAN MAXIMILIANO GIANNETTI"
+        },
+        "owner": {
+          "id": "DOBLE O.O. (GGCHU)_G",
+          "name": "DOBLE O.O. (GGCHU)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 4,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "c61cda38-88ce-3653-9dd8-2ceffeae2b40",
+          "funcId": "LUNA CURIOSA-THIRTEEN MOONS-SAFETY CHECK",
+          "sireNumber": null,
+          "name": "LUNA CURIOSA",
+          "dateOfBirth": "2021-07-30",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "351a5b1b-6024-3496-ba85-253319a7dc78",
+            "funcId": "SAFETY CHECK--",
+            "sireNumber": null,
+            "name": "SAFETY CHECK",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "IE",
+              "label": "Irlande",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "739e4929-c6c8-34ba-bf45-d1d7856516d6",
+            "funcId": "THIRTEEN MOONS--CHEROKEE RUN",
+            "sireNumber": null,
+            "name": "THIRTEEN MOONS",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "351a5b1b-6024-3496-ba85-253319a7dc78",
+              "funcId": "SAFETY CHECK--",
+              "sireNumber": null,
+              "name": "SAFETY CHECK",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "IE",
+                "label": "Irlande",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "2 L",
+          "label": "2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "5p",
+        "earnings": 330000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 330000,
+            "careerWin": null,
+            "careerPlace": 330000,
+            "currentYearTotal": null,
+            "lastYearTotal": 330000
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": 1,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": 1,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "aad9fe83-ddf1-31e4-a8ab-cfbc91b02333",
+        "metaData": null,
+        "runnerNumber": 5,
+        "railPosition": 5,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-5.png",
+        "silksDescription": "BODY WHITE, SLEEVES WHITE, CAP MIDNIGHT BLUE, YELLOW BUTTON",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "GUILLERMO JOSE FRENKEL SANTILLAN_G",
+          "name": "GUILLERMO JOSE FRENKEL SANTILLAN"
+        },
+        "rider": {
+          "id": "IVAN MONASTEROLO_G",
+          "name": "IVAN MONASTEROLO"
+        },
+        "owner": {
+          "id": "MONTIEL_G",
+          "name": "MONTIEL"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 8,
+        "finishComment": null,
+        "blinkers": {
+          "code": "A",
+          "label": "Australiennes",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "32b601ad-8eaf-317f-9b9e-658aaeffd7d4",
+          "funcId": "LA PALTROW-LA HEPBURN-HURRICANE CAT",
+          "sireNumber": null,
+          "name": "LA PALTROW",
+          "dateOfBirth": "2021-09-09",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BA_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "e3e0a563-7390-31d1-8bcc-1408618a5b99",
+            "funcId": "HURRICANE CAT--",
+            "sireNumber": "46967891",
+            "name": "HURRICANE CAT",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": {
+              "code": "PS",
+              "label": "Pur-sang",
+              "language": "fr"
+            },
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "51a27a8b-b57e-3ecc-bbd4-f9c3deb973fe",
+            "funcId": "LA HEPBURN--FRAGOTERO",
+            "sireNumber": null,
+            "name": "LA HEPBURN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "e3e0a563-7390-31d1-8bcc-1408618a5b99",
+              "funcId": "HURRICANE CAT--",
+              "sireNumber": "46967891",
+              "name": "HURRICANE CAT",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": {
+                "code": "PS",
+                "label": "Pur-sang",
+                "language": "fr"
+              },
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "3 L 1/2",
+          "label": "3 L 1/2",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": null,
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "88591194-920a-32dc-8334-50a8dd069b4c",
+        "metaData": null,
+        "runnerNumber": 6,
+        "railPosition": 6,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-6.png",
+        "silksDescription": "BODY BLACK, YELLOW HALVED (HORIZONTALLY), SLEEVES BLACK, CAP",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "PABLO GUSTAVO FALERO_G",
+          "name": "PABLO GUSTAVO FALERO"
+        },
+        "rider": {
+          "id": "JUAN PABLO PAOLONI_G",
+          "name": "JUAN PABLO PAOLONI"
+        },
+        "owner": {
+          "id": "VILLA DEL CERRO (DOL)_G",
+          "name": "VILLA DEL CERRO (DOL)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 2,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "2db679a3-63aa-362b-abed-c275577dbccf",
+          "funcId": "VINICIUS GIRL-VIP CLASS-JAPAN",
+          "sireNumber": null,
+          "name": "VINICIUS GIRL",
+          "dateOfBirth": "2021-10-22",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "c55aeafa-2de5-3939-a29c-ed9908098929",
+            "funcId": "JAPAN--",
+            "sireNumber": null,
+            "name": "JAPAN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "9788ab34-2d7e-3587-b883-93006df347c9",
+            "funcId": "VIP CLASS--NORTHERN AFLEET",
+            "sireNumber": null,
+            "name": "VIP CLASS",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "BR",
+              "label": "Brésil",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "c55aeafa-2de5-3939-a29c-ed9908098929",
+              "funcId": "JAPAN--",
+              "sireNumber": null,
+              "name": "JAPAN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "1 L 1/2",
+          "label": "1 L 1/2",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "2p0p",
+        "earnings": 2310000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 2310000,
+            "careerWin": null,
+            "careerPlace": 2310000,
+            "currentYearTotal": null,
+            "lastYearTotal": 2310000
+          },
+          "participations": {
+            "careerTotal": 2,
+            "careerWin": null,
+            "careerPlace": 1,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "7133ab55-2ee7-3497-a044-39ad8da0b396",
+        "metaData": null,
+        "runnerNumber": 7,
+        "railPosition": 7,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-7.png",
+        "silksDescription": "BODY DARK TURQUOISE, YELLOW FOUR LEAF CLOVER, SLEEVES DARK T",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "HECTOR DOMINGO NICODEMO_G",
+          "name": "HECTOR DOMINGO NICODEMO"
+        },
+        "rider": {
+          "id": "NON COMMUNIQUE_G",
+          "name": "NON COMMUNIQUE"
+        },
+        "owner": {
+          "id": "LA BICICLETA_G",
+          "name": "LA BICICLETA"
+        },
+        "timeRecord": "82",
+        "pace": "58",
+        "rank": 1,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "fd09fe4a-07e2-380a-b001-806f6c57e6e2",
+          "funcId": "ORNETA-ORLANDINA-PUERTO ESCONDIDO",
+          "sireNumber": null,
+          "name": "ORNETA",
+          "dateOfBirth": "2021-08-25",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BL_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "b76d6284-7649-3669-aef0-236d556d81c2",
+            "funcId": "PUERTO ESCONDIDO--",
+            "sireNumber": null,
+            "name": "PUERTO ESCONDIDO",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "c66fd032-41a7-3e09-9cf8-e0d8ed716475",
+            "funcId": "ORLANDINA--",
+            "sireNumber": null,
+            "name": "ORLANDINA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "b76d6284-7649-3669-aef0-236d556d81c2",
+              "funcId": "PUERTO ESCONDIDO--",
+              "sireNumber": null,
+              "name": "PUERTO ESCONDIDO",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": null,
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": null,
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "0fb4ccb3-56cf-30c1-b2b9-4087180c5b0d",
+        "metaData": null,
+        "runnerNumber": 8,
+        "railPosition": 8,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-8.png",
+        "silksDescription": "BODY DARK SLATE BLUE, LIGHT GREY STRIPE, WHITE COLLAR, SLEEV",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "TOMAS DANIEL CARRO_G",
+          "name": "TOMAS DANIEL CARRO"
+        },
+        "rider": {
+          "id": "JOSE ERNESTO LEONARDO_G",
+          "name": "JOSE ERNESTO LEONARDO"
+        },
+        "owner": {
+          "id": "SI NOS TOCA_G",
+          "name": "SI NOS TOCA"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 11,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "a4bdf7e1-2271-3393-8ac8-bdf54b7db767",
+          "funcId": "MERITOKRACIA-QUEEN SAFARI-LUCULLAN",
+          "sireNumber": null,
+          "name": "MERITOKRACIA",
+          "dateOfBirth": "2021-08-28",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "77bf7c59-a504-3b2c-86f6-f0b2eee08a1b",
+            "funcId": "LUCULLAN--",
+            "sireNumber": null,
+            "name": "LUCULLAN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "738fce28-9bbe-3d88-9cc0-1b1177833ff2",
+            "funcId": "QUEEN SAFARI--BOBOMAN",
+            "sireNumber": null,
+            "name": "QUEEN SAFARI",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "77bf7c59-a504-3b2c-86f6-f0b2eee08a1b",
+              "funcId": "LUCULLAN--",
+              "sireNumber": null,
+              "name": "LUCULLAN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "11 L",
+          "label": "11 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p5p",
+        "earnings": 2348000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 2348000,
+            "careerWin": null,
+            "careerPlace": 2348000,
+            "currentYearTotal": 2348000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 2,
+            "careerWin": null,
+            "careerPlace": 1,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "603f4d99-3a2e-368b-a29b-83077e52bf2f",
+        "metaData": null,
+        "runnerNumber": 9,
+        "railPosition": 9,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-9.png",
+        "silksDescription": "BODY RED, SLEEVES RED, FOREST GREEN HOOPED, CAP RED",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "CARLOS DANIEL ETCHECHOURY_G",
+          "name": "CARLOS DANIEL ETCHECHOURY"
+        },
+        "rider": {
+          "id": "KEVIN BANEGAS_G",
+          "name": "KEVIN BANEGAS"
+        },
+        "owner": {
+          "id": "LA NORA_G",
+          "name": "LA NORA"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 6,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "24bf30fa-f11f-3b15-bc93-895aef771e23",
+          "funcId": "QUEEN PAMPONA-QUEEN NORITA-ORPEN",
+          "sireNumber": null,
+          "name": "QUEEN PAMPONA",
+          "dateOfBirth": "2021-07-20",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BA_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "e372d936-1f4c-3e45-b2f3-0e8bf721885e",
+            "funcId": "ORPEN--",
+            "sireNumber": "46947470",
+            "name": "ORPEN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": {
+              "code": "PS",
+              "label": "Pur-sang",
+              "language": "fr"
+            },
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "c9147be4-8671-329e-8d09-b3c677dc40f0",
+            "funcId": "QUEEN NORITA--SIDNEY'S CANDY",
+            "sireNumber": null,
+            "name": "QUEEN NORITA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "e372d936-1f4c-3e45-b2f3-0e8bf721885e",
+              "funcId": "ORPEN--",
+              "sireNumber": "46947470",
+              "name": "ORPEN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": {
+                "code": "PS",
+                "label": "Pur-sang",
+                "language": "fr"
+              },
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "1/2 L",
+          "label": "1/2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "9e11385b-8353-371f-a776-b325bba7da74",
+        "metaData": null,
+        "runnerNumber": 10,
+        "railPosition": 10,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-10.png",
+        "silksDescription": "BODY WHITE, YELLOW HOOP, BLUE HOOPED, SLEEVES BLUE, YELLOW C",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "EDUARDO CARLOS TADEI_G",
+          "name": "EDUARDO CARLOS TADEI"
+        },
+        "rider": {
+          "id": "DANIEL EDUARDO ARIAS_G",
+          "name": "DANIEL EDUARDO ARIAS"
+        },
+        "owner": {
+          "id": "SI QUIERO, SI PUEDO (AR)_G",
+          "name": "SI QUIERO, SI PUEDO (AR)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 7,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "a1dc183d-f76c-3b24-b805-dee90536b8f5",
+          "funcId": "QUEEN'S LIFE-QUEEN MARION-EQUAL STRIPES",
+          "sireNumber": null,
+          "name": "QUEEN'S LIFE",
+          "dateOfBirth": "2021-07-19",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "5dcb0c82-6ef1-34cb-961d-8ec7d8f83ab6",
+            "funcId": "EQUAL STRIPES--",
+            "sireNumber": null,
+            "name": "EQUAL STRIPES",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "725128ba-9225-3d15-8918-cac508de6f95",
+            "funcId": "QUEEN MARION--",
+            "sireNumber": null,
+            "name": "QUEEN MARION",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "5dcb0c82-6ef1-34cb-961d-8ec7d8f83ab6",
+              "funcId": "EQUAL STRIPES--",
+              "sireNumber": null,
+              "name": "EQUAL STRIPES",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "7 L",
+          "label": "7 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "3p3p",
+        "earnings": 3606000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 3606000,
+            "careerWin": null,
+            "careerPlace": 3606000,
+            "currentYearTotal": 3606000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 2,
+            "careerWin": null,
+            "careerPlace": 2,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "baf979f0-bb66-3be3-b170-f07f1e2f6b8d",
+        "metaData": null,
+        "runnerNumber": 11,
+        "railPosition": 11,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-11.png",
+        "silksDescription": "BODY BLACK, RED SASH, LIME GREEN SASH, SLEEVES GREY, CAP BLA",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "FABIO RICARDO CACCIABUE_G",
+          "name": "FABIO RICARDO CACCIABUE"
+        },
+        "rider": {
+          "id": "RODRIGUEZ MAXIM ASERITO_G",
+          "name": "RODRIGUEZ MAXIM ASERITO"
+        },
+        "owner": {
+          "id": "CACHO ARATA_G",
+          "name": "CACHO ARATA"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 9,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "a1be5bf2-400a-39a3-aff8-508ee65e6afe",
+          "funcId": "EPOCA DE JULIO-INTER TIARA-IL CAMPIONE",
+          "sireNumber": null,
+          "name": "EPOCA DE JULIO",
+          "dateOfBirth": "2021-07-18",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "90eedd65-558f-3397-9ffa-9c0821cea627",
+            "funcId": "IL CAMPIONE--",
+            "sireNumber": null,
+            "name": "IL CAMPIONE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "8e1732ea-c3a9-3acc-a222-b3b36b83b4c6",
+            "funcId": "INTER TIARA--INTERPRETE",
+            "sireNumber": null,
+            "name": "INTER TIARA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "90eedd65-558f-3397-9ffa-9c0821cea627",
+              "funcId": "IL CAMPIONE--",
+              "sireNumber": null,
+              "name": "IL CAMPIONE",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "2 L 1/2",
+          "label": "2 L 1/2",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "5p5p0p0p",
+        "earnings": 1147000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 1147000,
+            "careerWin": null,
+            "careerPlace": 1147000,
+            "currentYearTotal": 1147000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 4,
+            "careerWin": null,
+            "careerPlace": 2,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "dd96044f-4ee9-3999-b518-5cca66639a3d",
+        "metaData": null,
+        "runnerNumber": 12,
+        "railPosition": 12,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20250117/SIO/8/20250117-SIO-8-12.png",
+        "silksDescription": "BODY GREEN, SLEEVES BLUE, RED CUFFS, CAP GREEN, BLUE QUARTER",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "JOSE ANTONIO LOFIEGO_G",
+          "name": "JOSE ANTONIO LOFIEGO"
+        },
+        "rider": {
+          "id": "FRANCISCO JESUS LAVIGNA_G",
+          "name": "FRANCISCO JESUS LAVIGNA"
+        },
+        "owner": {
+          "id": "M. DE G. (SI)_G",
+          "name": "M. DE G. (SI)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 12,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "08df44c7-1926-3c11-b81b-6b567d8d9484",
+          "funcId": "SE ESCAPARME-IN ROAD-SENOR CANDY",
+          "sireNumber": null,
+          "name": "SE ESCAPARME",
+          "dateOfBirth": "2021-09-28",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 4,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "fd4aac76-e0de-3c32-900d-516fe71574f5",
+            "funcId": "SENOR CANDY--",
+            "sireNumber": null,
+            "name": "SENOR CANDY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "UY",
+              "label": "Uruguay",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "754c6044-b09c-341c-a4f9-2f436e847bf8",
+            "funcId": "IN ROAD--NOT FOR SALE",
+            "sireNumber": null,
+            "name": "IN ROAD",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "fd4aac76-e0de-3c32-900d-516fe71574f5",
+              "funcId": "SENOR CANDY--",
+              "sireNumber": null,
+              "name": "SENOR CANDY",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "UY",
+                "label": "Uruguay",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "16 L",
+          "label": "16 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p0p",
+        "earnings": 274000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 274000,
+            "careerWin": null,
+            "careerPlace": 274000,
+            "currentYearTotal": 274000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 2,
+            "careerWin": null,
+            "careerPlace": 1,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "2ff7c3f4-c8e0-3c72-a7b5-e803a48e120a",
+    "metaData": null,
+    "meetingId": "20241222-SIO",
+    "raceNumber": 3,
+    "raceName": "PREMIO RECIEN HECHO 2010 (2° TURNO)",
+    "plannedStartTime": "18:45",
+    "actualStartTime": null,
+    "complexBetCode": false,
+    "runnersCount": null,
+    "distance": 1400,
+    "inquiryStatus": null,
+    "inquiryLabel": null,
+    "trackedRace": false,
+    "date": "2024-12-22",
+    "raceTime": "82.48",
+    "cei": null,
+    "anj": true,
+    "ranking": [
+      {
+        "rank": 1,
+        "runnerNumber": 11
+      },
+      {
+        "rank": 2,
+        "runnerNumber": 7
+      },
+      {
+        "rank": 3,
+        "runnerNumber": 6
+      },
+      {
+        "rank": 4,
+        "runnerNumber": 1
+      },
+      {
+        "rank": 5,
+        "runnerNumber": 4
+      },
+      {
+        "rank": 6,
+        "runnerNumber": 2
+      },
+      {
+        "rank": 7,
+        "runnerNumber": 8
+      },
+      {
+        "rank": 8,
+        "runnerNumber": 3
+      },
+      {
+        "rank": 9,
+        "runnerNumber": 9
+      },
+      {
+        "rank": 10,
+        "runnerNumber": 5
+      },
+      {
+        "rank": 11,
+        "runnerNumber": 10
+      }
+    ],
+    "nonRunners": null,
+    "deleted": null,
+    "currency": null,
+    "peloton": null,
+    "handicapReferences": null,
+    "raceConditions": {
+      "fullConditions": "Pour pur sang femelle de trois ans (Allocations distribuées aux 5 premiers). L es informations concernant les partants sont communiquées sous la responsabili té de l'autorité hippique du pays dans lequel la course est organisée.",
+      "breedConditions": "PUR SANG",
+      "genderConditions": "Femelles",
+      "ageConditions": "3 ans",
+      "riderConditions": null
+    },
+    "earnings": {
+      "currency": "ARS",
+      "totalPool": 5610000,
+      "detailedEarnings": []
+    },
+    "betsOffering": null,
+    "officialResultTime": null,
+    "discipline": {
+      "code": "p",
+      "label": "Plat",
+      "language": "fr"
+    },
+    "raceStatus": null,
+    "startingMode": null,
+    "turn": {
+      "code": "G",
+      "label": "à gauche",
+      "language": "fr"
+    },
+    "raceType": null,
+    "raceCategory": {
+      "code": "COURSE A CONDITIONS_ICP",
+      "label": "null",
+      "language": "fr"
+    },
+    "trackType": null,
+    "trackCondition": {
+      "measureTimestamp": null,
+      "measure": null,
+      "code": null,
+      "label": null
+    },
+    "racecourse": {
+      "code": "SIO",
+      "label": "SAN ISIDRO",
+      "countryCode": "AR",
+      "source": null,
+      "externalCode": null
+    },
+    "course": null,
+    "runners": [
+      {
+        "id": "60ce3f8e-950a-322f-bb4b-7bdeb5633b8e",
+        "metaData": null,
+        "runnerNumber": 1,
+        "railPosition": 1,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-1.png",
+        "silksDescription": "BODY WHITE, STEEL BLUE STRIPES, SLEEVES WHITE, STEEL BLUE ST",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "JUAN MANUEL ETCHECHOURY_G",
+          "name": "JUAN MANUEL ETCHECHOURY"
+        },
+        "rider": {
+          "id": "EDUARDO ORTEGA PAVON_G",
+          "name": "EDUARDO ORTEGA PAVON"
+        },
+        "owner": {
+          "id": "HARAS CHIAPILL (LP)_G",
+          "name": "HARAS CHIAPILL (LP)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 4,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "b800f7cb-1520-33b9-a16f-374b179d1e55",
+          "funcId": "TREASURE BACK-STRIKE BACK-TREASURE BEACH",
+          "sireNumber": null,
+          "name": "TREASURE BACK",
+          "dateOfBirth": "2021-09-22",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BL_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "bf30a1ef-6782-3306-928c-d1dcadc5178b",
+            "funcId": "TREASURE BEACH--",
+            "sireNumber": null,
+            "name": "TREASURE BEACH",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "GB",
+              "label": "Royaume-Uni",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "9aafe2ae-113f-3fcb-8a47-4e895454d797",
+            "funcId": "STRIKE BACK--",
+            "sireNumber": null,
+            "name": "STRIKE BACK",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "bf30a1ef-6782-3306-928c-d1dcadc5178b",
+              "funcId": "TREASURE BEACH--",
+              "sireNumber": null,
+              "name": "TREASURE BEACH",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "GB",
+                "label": "Royaume-Uni",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "2 L",
+          "label": "2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "4p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "16056029-9c7e-3ba1-b9d0-22e5c55f3b18",
+        "metaData": null,
+        "runnerNumber": 2,
+        "railPosition": 2,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-2.png",
+        "silksDescription": "BODY BLUE VIOLET, WHITE STRIPES, WHITE COLLAR, SLEEVES BLUE",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "JOSE ANTONIO LOFIEGO_G",
+          "name": "JOSE ANTONIO LOFIEGO"
+        },
+        "rider": {
+          "id": "LUCAS FRANCISCO GONZALEZ_G",
+          "name": "LUCAS FRANCISCO GONZALEZ"
+        },
+        "owner": {
+          "id": "EL TIGRE BLANCO_G",
+          "name": "EL TIGRE BLANCO"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 6,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "873ec8ab-3591-3576-8d63-9d0ff24fbc2c",
+          "funcId": "LOVE SOUND-LOVE ALWAYS-LONG ISLAND SOUND",
+          "sireNumber": null,
+          "name": "LOVE SOUND",
+          "dateOfBirth": "2021-07-16",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "069afcd7-f6dd-399e-9279-08107d8cadec",
+            "funcId": "LONG ISLAND SOUND--",
+            "sireNumber": null,
+            "name": "LONG ISLAND SOUND",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "d240ba20-3770-3f3e-95c9-60f826dec33b",
+            "funcId": "LOVE ALWAYS--",
+            "sireNumber": null,
+            "name": "LOVE ALWAYS",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "069afcd7-f6dd-399e-9279-08107d8cadec",
+              "funcId": "LONG ISLAND SOUND--",
+              "sireNumber": null,
+              "name": "LONG ISLAND SOUND",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "1 L 1/2",
+          "label": "1 L 1/2",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "3p4p4p4p",
+        "earnings": 4636000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 4636000,
+            "careerWin": null,
+            "careerPlace": 4636000,
+            "currentYearTotal": 4636000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 4,
+            "careerWin": null,
+            "careerPlace": 4,
+            "careerDetails": [
+              {
+                "rank": 3,
+                "count": 1
+              }
+            ],
+            "currentYearTotal": 4,
+            "currentYearDetails": [
+              {
+                "rank": 3,
+                "count": 1
+              }
+            ],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "1607650a-3fa7-3d77-afc8-29adeff3fa3b",
+        "metaData": null,
+        "runnerNumber": 3,
+        "railPosition": 3,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-3.png",
+        "silksDescription": "BODY DARK TURQUOISE, SLEEVES WHITE, DARK TURQUOISE ARMLET, C",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "NICOLAS ALFREDO GAITAN_G",
+          "name": "NICOLAS ALFREDO GAITAN"
+        },
+        "rider": {
+          "id": "MARTIN JAVIER VALLE_G",
+          "name": "MARTIN JAVIER VALLE"
+        },
+        "owner": {
+          "id": "FIRMAMENTO_G",
+          "name": "FIRMAMENTO"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 8,
+        "finishComment": null,
+        "blinkers": {
+          "code": "A",
+          "label": "Australiennes",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "43669bb5-debc-33fc-ab0a-39593a3565c0",
+          "funcId": "EMMA HAPPY-EMERIT CELEBRE-HI HAPPY",
+          "sireNumber": null,
+          "name": "EMMA HAPPY",
+          "dateOfBirth": "2021-10-05",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "CH_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "7e9ed81c-3b2a-33ec-b88c-2d9b1b7d4b11",
+            "funcId": "HI HAPPY--",
+            "sireNumber": null,
+            "name": "HI HAPPY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "17aa8f1d-6b5d-36b8-9aae-68468dcaeff8",
+            "funcId": "EMERIT CELEBRE--PEINTRE CELEBRE",
+            "sireNumber": null,
+            "name": "EMERIT CELEBRE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "7e9ed81c-3b2a-33ec-b88c-2d9b1b7d4b11",
+              "funcId": "HI HAPPY--",
+              "sireNumber": null,
+              "name": "HI HAPPY",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "1 L 1/2",
+          "label": "1 L 1/2",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "8p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "e4c9183a-1083-378c-b2e9-81d6f2a8bae4",
+        "metaData": null,
+        "runnerNumber": 4,
+        "railPosition": 4,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-4.png",
+        "silksDescription": "BODY WHITE, YELLOW FLEUR DE LYS, YELLOW STRIPE, SLEEVES WHIT",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "MARIA FERNANDA ALVAREZ_G",
+          "name": "MARIA FERNANDA ALVAREZ"
+        },
+        "rider": {
+          "id": "KEVIN BANEGAS_G",
+          "name": "KEVIN BANEGAS"
+        },
+        "owner": {
+          "id": "HERITAGE STUD_G",
+          "name": "HERITAGE STUD"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 5,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "a2e5261a-2b37-30a9-8f42-ccbb57d53c26",
+          "funcId": "SANAA SPRINGS-DISNEY SPRING-FORGE",
+          "sireNumber": null,
+          "name": "SANAA SPRINGS",
+          "dateOfBirth": "2021-10-29",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "191855da-2bf6-35a0-b8eb-afc2902b7a99",
+            "funcId": "FORGE--",
+            "sireNumber": null,
+            "name": "FORGE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "GB",
+              "label": "Royaume-Uni",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "c7f86a2b-685e-3439-b1df-41ae617036af",
+            "funcId": "DISNEY SPRING--",
+            "sireNumber": null,
+            "name": "DISNEY SPRING",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "191855da-2bf6-35a0-b8eb-afc2902b7a99",
+              "funcId": "FORGE--",
+              "sireNumber": null,
+              "name": "FORGE",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "GB",
+                "label": "Royaume-Uni",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "1/2 L",
+          "label": "1/2 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p0p0p4p",
+        "earnings": 1556000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 1556000,
+            "careerWin": null,
+            "careerPlace": 1556000,
+            "currentYearTotal": 1556000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 5,
+            "careerWin": null,
+            "careerPlace": 2,
+            "careerDetails": [],
+            "currentYearTotal": 5,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "2e3229a7-cae1-36e3-98b5-77c0cc4f2c31",
+        "metaData": null,
+        "runnerNumber": 5,
+        "railPosition": 5,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-5.png",
+        "silksDescription": "BODY BLUE, WHITE HORSE SHOE, SLEEVES BLUE, WHITE CUFFS, CAP",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "MIGUEL ANGEL CAFERE_G",
+          "name": "MIGUEL ANGEL CAFERE"
+        },
+        "rider": {
+          "id": "JUAN CRUZ VILLAGRA_G",
+          "name": "JUAN CRUZ VILLAGRA"
+        },
+        "owner": {
+          "id": "J.C.V. (SFE)_G",
+          "name": "J.C.V. (SFE)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 10,
+        "finishComment": null,
+        "blinkers": {
+          "code": "A",
+          "label": "Australiennes",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "2a5236bd-47fd-39cb-8312-797977e8b175",
+          "funcId": "TREJA GIRL-TREJA-ASIATIC BOY",
+          "sireNumber": null,
+          "name": "TREJA GIRL",
+          "dateOfBirth": "2021-10-16",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "f2d63755-9791-31e1-a24e-acb150131c21",
+            "funcId": "ASIATIC BOY--",
+            "sireNumber": null,
+            "name": "ASIATIC BOY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "d93ce416-489a-3d29-84b3-a225d402e248",
+            "funcId": "TREJA--",
+            "sireNumber": null,
+            "name": "TREJA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "f2d63755-9791-31e1-a24e-acb150131c21",
+              "funcId": "ASIATIC BOY--",
+              "sireNumber": null,
+              "name": "ASIATIC BOY",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "TETE",
+          "label": "Tête",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "5ea39e72-c1d7-3c20-b1b4-6738374d215e",
+        "metaData": null,
+        "runnerNumber": 6,
+        "railPosition": 6,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-6.png",
+        "silksDescription": "BODY DIM GREY, BLACK CROSSBELTS, SLEEVES DIM GREY, CAP RED,",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "JUAN CARLOS BORDA_G",
+          "name": "JUAN CARLOS BORDA"
+        },
+        "rider": {
+          "id": "PABLO DAMIAN CARRIZO_G",
+          "name": "PABLO DAMIAN CARRIZO"
+        },
+        "owner": {
+          "id": "LOS PATRIOS_G",
+          "name": "LOS PATRIOS"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 3,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "25b98582-0075-379e-982a-00a2304a684a",
+          "funcId": "ESCOLTA REAL-AGALLAS-IL CAMPIONE",
+          "sireNumber": null,
+          "name": "ESCOLTA REAL",
+          "dateOfBirth": "2021-10-14",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "90eedd65-558f-3397-9ffa-9c0821cea627",
+            "funcId": "IL CAMPIONE--",
+            "sireNumber": null,
+            "name": "IL CAMPIONE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "b41ebc3c-abb8-376d-8609-3b31575d655d",
+            "funcId": "AGALLAS--",
+            "sireNumber": null,
+            "name": "AGALLAS",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "90eedd65-558f-3397-9ffa-9c0821cea627",
+              "funcId": "IL CAMPIONE--",
+              "sireNumber": null,
+              "name": "IL CAMPIONE",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "ENCOLURE",
+          "label": "Encolure",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "3p4p0p3p",
+        "earnings": 10336000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 10336000,
+            "careerWin": null,
+            "careerPlace": 10336000,
+            "currentYearTotal": 10336000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 6,
+            "careerWin": null,
+            "careerPlace": 5,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "2d162bd4-c39a-3a32-9055-31d1a9f1776a",
+        "metaData": null,
+        "runnerNumber": 7,
+        "railPosition": 7,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-7.png",
+        "silksDescription": "BODY ORANGE, BLACK HALVED (HORIZONTALLY), SLEEVES ORANGE, CA",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "PABLO GUSTAVO FALERO_G",
+          "name": "PABLO GUSTAVO FALERO"
+        },
+        "rider": {
+          "id": "JUAN PABLO PAOLONI_G",
+          "name": "JUAN PABLO PAOLONI"
+        },
+        "owner": {
+          "id": "VILLA DEL CERRO (DOL)_G",
+          "name": "VILLA DEL CERRO (DOL)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 2,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "2db679a3-63aa-362b-abed-c275577dbccf",
+          "funcId": "VINICIUS GIRL-VIP CLASS-JAPAN",
+          "sireNumber": null,
+          "name": "VINICIUS GIRL",
+          "dateOfBirth": "2021-10-22",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "c55aeafa-2de5-3939-a29c-ed9908098929",
+            "funcId": "JAPAN--",
+            "sireNumber": null,
+            "name": "JAPAN",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "US",
+              "label": "États-Unis",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "9788ab34-2d7e-3587-b883-93006df347c9",
+            "funcId": "VIP CLASS--NORTHERN AFLEET",
+            "sireNumber": null,
+            "name": "VIP CLASS",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "BR",
+              "label": "Brésil",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "c55aeafa-2de5-3939-a29c-ed9908098929",
+              "funcId": "JAPAN--",
+              "sireNumber": null,
+              "name": "JAPAN",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "US",
+                "label": "États-Unis",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "3 L 1/2",
+          "label": "3 L 1/2",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "fdfe5d46-a68c-3113-bfa2-721851edf72f",
+        "metaData": null,
+        "runnerNumber": 8,
+        "railPosition": 8,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-8.png",
+        "silksDescription": "BODY ROYAL BLUE, RED HOOP, SLEEVES ROYAL BLUE, RED HALVED (H",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "GUSTAVO EDGARDO SCARPELLO_G",
+          "name": "GUSTAVO EDGARDO SCARPELLO"
+        },
+        "rider": {
+          "id": "ADRIAN MAXIMILIANO GIANNETTI_G",
+          "name": "ADRIAN MAXIMILIANO GIANNETTI"
+        },
+        "owner": {
+          "id": "RODOLFO PEDRO_G",
+          "name": "RODOLFO PEDRO"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 7,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "ba627b62-2ea7-33d6-ac14-42af58568b41",
+          "funcId": "INCA DE ARTEAGA-INCA SOLEADA-COSMIC TRIGGER",
+          "sireNumber": null,
+          "name": "INCA DE ARTEAGA",
+          "dateOfBirth": "2021-08-07",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "1c03f601-1cbb-3c51-9fc5-19e2795fc052",
+            "funcId": "COSMIC TRIGGER--",
+            "sireNumber": null,
+            "name": "COSMIC TRIGGER",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "80676675-9924-3f9d-821c-105b5ae19cda",
+            "funcId": "INCA SOLEADA--DYNAMIX",
+            "sireNumber": null,
+            "name": "INCA SOLEADA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "1c03f601-1cbb-3c51-9fc5-19e2795fc052",
+              "funcId": "COSMIC TRIGGER--",
+              "sireNumber": null,
+              "name": "COSMIC TRIGGER",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "TETE",
+          "label": "Tête",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "4p5p4p3p",
+        "earnings": 14180000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 14180000,
+            "careerWin": null,
+            "careerPlace": 14180000,
+            "currentYearTotal": 14180000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 9,
+            "careerWin": null,
+            "careerPlace": 8,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "11872393-77a3-3e68-b2de-8f24baf24082",
+        "metaData": null,
+        "runnerNumber": 9,
+        "railPosition": 9,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-9.png",
+        "silksDescription": "BODY DODGER BLUE, BLACK HALVED (HORIZONTALLY), SLEEVES DODGE",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "ROBERTO RAMON RETAMOSO_G",
+          "name": "ROBERTO RAMON RETAMOSO"
+        },
+        "rider": {
+          "id": "JAIRO FLORES_G",
+          "name": "JAIRO FLORES"
+        },
+        "owner": {
+          "id": "MBARETE (LP)_G",
+          "name": "MBARETE (LP)"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 9,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "9f23fd68-98a4-3d89-a0f2-1207fe535dd9",
+          "funcId": "CON FRENESI-GUAINA KATE-MANIPULATOR",
+          "sireNumber": null,
+          "name": "CON FRENESI",
+          "dateOfBirth": "2021-09-05",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "BL_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "dfacd7c7-cc03-3a8f-a4df-a91a56855fc9",
+            "funcId": "MANIPULATOR--",
+            "sireNumber": null,
+            "name": "MANIPULATOR",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "UY",
+              "label": "Uruguay",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "ac95e788-cfdb-3122-afd6-365b0cbf6168",
+            "funcId": "GUAINA KATE--",
+            "sireNumber": null,
+            "name": "GUAINA KATE",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "dfacd7c7-cc03-3a8f-a4df-a91a56855fc9",
+              "funcId": "MANIPULATOR--",
+              "sireNumber": null,
+              "name": "MANIPULATOR",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "UY",
+                "label": "Uruguay",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "12 L",
+          "label": "12 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "7678c250-aa99-3d4d-b09a-2b66b685ef5e",
+        "metaData": null,
+        "runnerNumber": 10,
+        "railPosition": 10,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-10.png",
+        "silksDescription": "BODY MIDNIGHT BLUE, WHITE BUTTONS, SLEEVES RED, MIDNIGHT BLU",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "LUCIANO RUBEN CERUTTI_G",
+          "name": "LUCIANO RUBEN CERUTTI"
+        },
+        "rider": {
+          "id": "JORGE LUIS PERALTA_G",
+          "name": "JORGE LUIS PERALTA"
+        },
+        "owner": {
+          "id": "CARAMPANGUE_G",
+          "name": "CARAMPANGUE"
+        },
+        "timeRecord": null,
+        "pace": null,
+        "rank": 11,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "d3080ef8-5d52-33ee-a9c5-bdf3334d7f96",
+          "funcId": "SOVIET BEAUTY-SOVIET LADY-SUGGESTIVE BOY",
+          "sireNumber": null,
+          "name": "SOVIET BEAUTY",
+          "dateOfBirth": "2021-10-31",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB_ICP",
+            "label": "null",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "8c4c365e-1206-3a06-8727-6e7b47ef57ad",
+            "funcId": "SUGGESTIVE BOY--",
+            "sireNumber": null,
+            "name": "SUGGESTIVE BOY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "4533e662-63d9-32a9-9b36-354605feeb50",
+            "funcId": "SOVIET LADY--",
+            "sireNumber": null,
+            "name": "SOVIET LADY",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": null,
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "8c4c365e-1206-3a06-8727-6e7b47ef57ad",
+              "funcId": "SUGGESTIVE BOY--",
+              "sireNumber": null,
+              "name": "SUGGESTIVE BOY",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": {
+          "code": "16 L",
+          "label": "16 L",
+          "language": "fr"
+        },
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "0p",
+        "earnings": null,
+        "statistics": {
+          "earnings": {
+            "careerTotal": null,
+            "careerWin": null,
+            "careerPlace": null,
+            "currentYearTotal": null,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 1,
+            "careerWin": null,
+            "careerPlace": null,
+            "careerDetails": [],
+            "currentYearTotal": 1,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      },
+      {
+        "id": "c547e1a6-7a21-3e5e-90d2-c5042715d767",
+        "metaData": null,
+        "runnerNumber": 11,
+        "railPosition": 11,
+        "railRequested": false,
+        "claimRate": null,
+        "racingStable": null,
+        "distance": null,
+        "calculatedWeight": null,
+        "weightFromConditions": null,
+        "load": null,
+        "mareInFoal": false,
+        "exclusiveInFrance": false,
+        "supplemented": false,
+        "handicapValue": null,
+        "silksPath": "https://assets.racingdata.pmu.fr/silks/20241222/SIO/3/20241222-SIO-3-11.png",
+        "silksDescription": "BODY WHITE, BLACK 2 STRIPE, LIME STRIPE, SLEEVES WHITE, LIME",
+        "hood": false,
+        "trainerOpinion": null,
+        "tongueTie": false,
+        "trainer": {
+          "id": "EDUARDO GASTON ACCOSANO_G",
+          "name": "EDUARDO GASTON ACCOSANO"
+        },
+        "rider": {
+          "id": "IVAN EDUARDO MONASTEROLO_G",
+          "name": "IVAN EDUARDO MONASTEROLO"
+        },
+        "owner": {
+          "id": "EL CHORRITO (CBA)_G",
+          "name": "EL CHORRITO (CBA)"
+        },
+        "timeRecord": "82",
+        "pace": "58",
+        "rank": 1,
+        "finishComment": null,
+        "blinkers": {
+          "code": "N",
+          "label": "Aucune",
+          "language": "fr"
+        },
+        "status": {
+          "code": "DP",
+          "label": "Déclaré Partant",
+          "language": "fr"
+        },
+        "shoes": null,
+        "horse": {
+          "techId": "96f02424-ec43-3359-9410-5034c5dae07e",
+          "funcId": "VERENNA-NOCHE DE VEDA-COSMIC TRIGGER",
+          "sireNumber": null,
+          "name": "VERENNA",
+          "dateOfBirth": "2021-09-16",
+          "origin": {
+            "code": "AR",
+            "label": "Argentine",
+            "language": "fr"
+          },
+          "breed": {
+            "code": "PS",
+            "label": "Pur-sang",
+            "language": "fr"
+          },
+          "gender": {
+            "code": "F",
+            "label": "Femelle",
+            "language": "fr"
+          },
+          "colour": {
+            "code": "TB",
+            "label": "inconnu",
+            "language": "fr"
+          },
+          "gait": {
+            "code": "G",
+            "label": "Galop",
+            "language": "fr"
+          },
+          "age": 3,
+          "yearOfBirth": 2021,
+          "yearOfCastration": null,
+          "breeder": null,
+          "sire": {
+            "techId": "1c03f601-1cbb-3c51-9fc5-19e2795fc052",
+            "funcId": "COSMIC TRIGGER--",
+            "sireNumber": null,
+            "name": "COSMIC TRIGGER",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null
+          },
+          "dam": {
+            "techId": "617bc424-a00b-396b-af2d-84bfc8d96c5e",
+            "funcId": "NOCHE DE VEDA--ORPEN",
+            "sireNumber": null,
+            "name": "NOCHE DE VEDA",
+            "dateOfBirth": "",
+            "yearOfBirth": null,
+            "origin": {
+              "code": "AR",
+              "label": "Argentine",
+              "language": "fr"
+            },
+            "breed": null,
+            "gender": null,
+            "colour": null,
+            "gait": null,
+            "sire": {
+              "techId": "1c03f601-1cbb-3c51-9fc5-19e2795fc052",
+              "funcId": "COSMIC TRIGGER--",
+              "sireNumber": null,
+              "name": "COSMIC TRIGGER",
+              "dateOfBirth": "",
+              "yearOfBirth": null,
+              "origin": {
+                "code": "AR",
+                "label": "Argentine",
+                "language": "fr"
+              },
+              "breed": null,
+              "gender": null,
+              "colour": null,
+              "gait": null
+            }
+          }
+        },
+        "spread": null,
+        "trainingCountry": null,
+        "comparableOpponents": [],
+        "records": "2p3p",
+        "earnings": 9316000,
+        "statistics": {
+          "earnings": {
+            "careerTotal": 9316000,
+            "careerWin": null,
+            "careerPlace": 9316000,
+            "currentYearTotal": 9316000,
+            "lastYearTotal": null
+          },
+          "participations": {
+            "careerTotal": 2,
+            "careerWin": null,
+            "careerPlace": 2,
+            "careerDetails": [],
+            "currentYearTotal": null,
+            "currentYearDetails": [],
+            "lastYearTotal": null,
+            "lastYearDetails": []
+          },
+          "bestPerformance": {
+            "timeRecord": null,
+            "distance": null,
+            "discipline": null,
+            "startingMode": null,
+            "racecourse": null
+          }
+        }
+      }
+    ]
+  }
+]

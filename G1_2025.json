@@ -1,0 +1,1809 @@
+[
+    {
+        "id": "7c1453d9-3e36-38d8-a222-23787185fb23",
+        "metaData": null,
+        "meetingId": "20250313-CHA",
+        "raceNumber": 2,
+        "raceName": "PRIX DU SOISSONNAIS",
+        "plannedStartTime": "14:29",
+        "actualStartTime": null,
+        "complexBetCode": false,
+        "runnersCount": null,
+        "distance": 1600,
+        "inquiryStatus": null,
+        "inquiryLabel": null,
+        "trackedRace": null,
+        "date": "2025-03-13",
+        "raceTime": "99.44",
+        "cei": null,
+        "anj": null,
+        "ranking": [
+            {
+                "rank": 1,
+                "runnerNumber": 4
+            },
+            {
+                "rank": 2,
+                "runnerNumber": 3
+            },
+            {
+                "rank": 3,
+                "runnerNumber": 8
+            },
+            {
+                "rank": 4,
+                "runnerNumber": 9
+            },
+            {
+                "rank": 5,
+                "runnerNumber": 6
+            },
+            {
+                "rank": 6,
+                "runnerNumber": 1
+            },
+            {
+                "rank": 7,
+                "runnerNumber": 7
+            },
+            {
+                "rank": 8,
+                "runnerNumber": 2
+            },
+            {
+                "rank": 9,
+                "runnerNumber": 5
+            }
+        ],
+        "nonRunners": null,
+        "deleted": null,
+        "currency": null,
+        "peloton": null,
+        "handicapReferences": null,
+        "raceConditions": {
+            "fullConditions": "Pour pouliches de 3 ans n'ayant jamais couru. Poids : 58 kg.",
+            "breedConditions": "PUR SANG",
+            "genderConditions": "Femelles",
+            "ageConditions": "3 ans",
+            "riderConditions": null
+        },
+        "earnings": {
+            "currency": "EUR",
+            "totalPool": 27000,
+            "detailedEarnings": [
+                {
+                    "rank": 1,
+                    "earnings": 13500
+                },
+                {
+                    "rank": 2,
+                    "earnings": 5400
+                },
+                {
+                    "rank": 3,
+                    "earnings": 4050
+                },
+                {
+                    "rank": 4,
+                    "earnings": 2700
+                },
+                {
+                    "rank": 5,
+                    "earnings": 1350
+                }
+            ]
+        },
+        "betsOffering": null,
+        "officialResultTime": null,
+        "discipline": {
+            "code": "p",
+            "label": "Plat",
+            "language": "fr"
+        },
+        "raceStatus": null,
+        "startingMode": null,
+        "turn": {
+            "code": "D",
+            "label": "à droite",
+            "language": "fr"
+        },
+        "raceType": {
+            "code": "EXCLUSIVE",
+            "label": "Course d'inédits",
+            "language": "fr"
+        },
+        "raceCategory": {
+            "code": "COURSE A CONDITIONS",
+            "label": "COURSE A CONDITIONS",
+            "language": "fr"
+        },
+        "trackType": null,
+        "trackCondition": {
+            "measureTimestamp": null,
+            "measure": null,
+            "code": null,
+            "label": null
+        },
+        "racecourse": {
+            "code": "CHA",
+            "label": "CHANTILLY",
+            "countryCode": "FR",
+            "source": null,
+            "externalCode": null
+        },
+        "course": {
+            "code": "Z3",
+            "label": "Z3",
+            "language": "fr",
+            "picture": null
+        },
+        "runners": [
+            {
+                "id": "84f87b8a-5fc2-3a0c-9b67-37f6cc8af0b4",
+                "metaData": null,
+                "runnerNumber": 1,
+                "railPosition": 6,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-1.png",
+                "silksDescription": "GRISE BRANDEBOURGS OR T. GRENAT PAMPILLE OR",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20328725",
+                    "name": "FH.GRAFFARD (S)"
+                },
+                "rider": {
+                    "id": "20229168",
+                    "name": "C.SOUMILLON"
+                },
+                "owner": {
+                    "id": "20325617",
+                    "name": "AL SHAQAB RACING"
+                },
+                "timeRecord": "100",
+                "pace": "62",
+                "rank": 6,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "7e2d414f-b857-341b-83e8-b6730e134f18",
+                    "funcId": "STUPEFIANTE-BOWLED OVER-LOPE DE VEGA",
+                    "sireNumber": "46440531",
+                    "name": "STUPEFIANTE",
+                    "dateOfBirth": "2022-04-20",
+                    "origin": {
+                        "code": "IE",
+                        "label": "Irlande",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20325617",
+                        "name": "AL SHAQAB RACING"
+                    },
+                    "sire": {
+                        "techId": "9dfe0408-2617-3720-9bbb-4edc767ec1bc",
+                        "funcId": "LOPE DE VEGA--",
+                        "sireNumber": "46978747",
+                        "name": "LOPE DE VEGA",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "fe19157f-6d00-32d8-ab9c-1f5b76704c9f",
+                        "funcId": "BOWLED OVER--",
+                        "sireNumber": null,
+                        "name": "BOWLED OVER",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": null,
+                        "breed": null,
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "9dfe0408-2617-3720-9bbb-4edc767ec1bc",
+                            "funcId": "LOPE DE VEGA--",
+                            "sireNumber": "46978747",
+                            "name": "LOPE DE VEGA",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "IE",
+                                "label": "Irlande",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "ENCOLURE",
+                    "label": "Encolure",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "44e09459-14d8-3b4e-a7d0-33858d7244ae",
+                "metaData": null,
+                "runnerNumber": 2,
+                "railPosition": 1,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-2.png",
+                "silksDescription": "GR-VERT COUTURES BLANCHES M GR-VERT ETOILES BLCHES T GR-VERT",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20376763",
+                    "name": "CHR.HEAD (S)"
+                },
+                "rider": {
+                    "id": "20265995",
+                    "name": "A.LEMAITRE"
+                },
+                "owner": {
+                    "id": "20385781",
+                    "name": "I..ALSAGAR"
+                },
+                "timeRecord": "100",
+                "pace": "62",
+                "rank": 8,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "b62986f9-168f-33bc-9ac3-5616be4d063f",
+                    "funcId": "MELOSA-SWEET GENTLE KISS-STUDY OF MAN",
+                    "sireNumber": "46446133",
+                    "name": "MELOSA",
+                    "dateOfBirth": "2022-01-20",
+                    "origin": {
+                        "code": "GB",
+                        "label": "Royaume-Uni",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20396995",
+                        "name": "BLUE DIAMOND STUD FARM (UK)LTD"
+                    },
+                    "sire": {
+                        "techId": "a2a78fd7-5016-37f3-b3fd-faf938eb655d",
+                        "funcId": "STUDY OF MAN--",
+                        "sireNumber": "46417343",
+                        "name": "STUDY OF MAN",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "c1eb5121-6b64-370c-8e96-a30d3c130b2b",
+                        "funcId": "SWEET GENTLE KISS--",
+                        "sireNumber": null,
+                        "name": "SWEET GENTLE KISS",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": null,
+                        "breed": null,
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "a2a78fd7-5016-37f3-b3fd-faf938eb655d",
+                            "funcId": "STUDY OF MAN--",
+                            "sireNumber": "46417343",
+                            "name": "STUDY OF MAN",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "IE",
+                                "label": "Irlande",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "1 L 1/2",
+                    "label": "1 L 1/2",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "bf9fe33e-5c19-3924-a75d-4707a7c7cbe4",
+                "metaData": null,
+                "runnerNumber": 3,
+                "railPosition": 8,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-3.png",
+                "silksDescription": "BLANCHE M GROS-VERT T CERCLEE BLANC ET GROS-VERT",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20201785",
+                    "name": "MME C.BARANDE BARBE"
+                },
+                "rider": {
+                    "id": "20341472",
+                    "name": "F.VALLE SKAR"
+                },
+                "owner": {
+                    "id": "20196817",
+                    "name": "E.PUERARI/EC.HAZAN/OCEANIC BLDTK"
+                },
+                "timeRecord": "99",
+                "pace": "62",
+                "rank": 2,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "f40b02f7-c7f5-3201-b46b-03eb26e6cf43",
+                    "funcId": "LOVEONTHELEFTBANK-AUREUM-INVINCIBLE SPIRIT",
+                    "sireNumber": "46441867",
+                    "name": "LOVEONTHELEFTBANK",
+                    "dateOfBirth": "2022-03-11",
+                    "origin": {
+                        "code": "US",
+                        "label": "États-Unis",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20215773",
+                        "name": "BARRONSTOWN STUD"
+                    },
+                    "sire": {
+                        "techId": "b304ff21-1ff3-311b-bd36-c7a1bbb5c784",
+                        "funcId": "INVINCIBLE SPIRIT--",
+                        "sireNumber": "46952700",
+                        "name": "INVINCIBLE SPIRIT",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "a7ca9b9b-085d-3ca8-8536-3d5ff8acadbd",
+                        "funcId": "AUREUM--MEDAGLIA D'ORO",
+                        "sireNumber": "46428688",
+                        "name": "AUREUM",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "US",
+                            "label": "États-Unis",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "b304ff21-1ff3-311b-bd36-c7a1bbb5c784",
+                            "funcId": "INVINCIBLE SPIRIT--",
+                            "sireNumber": "46952700",
+                            "name": "INVINCIBLE SPIRIT",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "IE",
+                                "label": "Irlande",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "1 L",
+                    "label": "1 L",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "33b95101-b170-3c0c-bdca-bc12bb20e69d",
+                "metaData": null,
+                "runnerNumber": 4,
+                "railPosition": 5,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-4.png",
+                "silksDescription": "BLEUE T BLEUE",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20415535",
+                    "name": "HA.PANTALL (S)"
+                },
+                "rider": {
+                    "id": "20256109",
+                    "name": "T.PICCONE"
+                },
+                "owner": {
+                    "id": "20292316",
+                    "name": "GODOLPHIN SNC"
+                },
+                "timeRecord": "99",
+                "pace": "62",
+                "rank": 1,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "d495a471-7c72-39e1-a939-f10d67f76156",
+                    "funcId": "ILDA ROSA-ZHUKOVA-LOPE DE VEGA",
+                    "sireNumber": "46449264",
+                    "name": "ILDA ROSA",
+                    "dateOfBirth": "2022-03-03",
+                    "origin": {
+                        "code": "GB",
+                        "label": "Royaume-Uni",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "ALEZAN",
+                        "label": "ALEZAN",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20219326",
+                        "name": "GODOLPHIN MANAGEMENT CIE LTD"
+                    },
+                    "sire": {
+                        "techId": "9dfe0408-2617-3720-9bbb-4edc767ec1bc",
+                        "funcId": "LOPE DE VEGA--",
+                        "sireNumber": "46978747",
+                        "name": "LOPE DE VEGA",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "f179c77e-354b-35f3-abac-b39af1751fc6",
+                        "funcId": "ZHUKOVA--FASTNET ROCK",
+                        "sireNumber": "46408606",
+                        "name": "ZHUKOVA",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "9dfe0408-2617-3720-9bbb-4edc767ec1bc",
+                            "funcId": "LOPE DE VEGA--",
+                            "sireNumber": "46978747",
+                            "name": "LOPE DE VEGA",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "IE",
+                                "label": "Irlande",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": null,
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "0fea98d8-b89a-3ee8-b960-1924564f10f7",
+                "metaData": null,
+                "runnerNumber": 5,
+                "railPosition": 3,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-5.png",
+                "silksDescription": "BLEU-CLAIR EPAUL BLANCHES T ECARTELEE BLANC ET BLEU-CLAIR",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20416055",
+                    "name": "F.CHAPPET (S)"
+                },
+                "rider": {
+                    "id": "20307657",
+                    "name": "M.MICHEL"
+                },
+                "owner": {
+                    "id": "20338808",
+                    "name": "HARAS DE SAINT JULIEN"
+                },
+                "timeRecord": "101",
+                "pace": "63",
+                "rank": 9,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "7d5c3223-1817-3087-a479-4d51f95db2b1",
+                    "funcId": "SUN RISE-SANTA CHRISTIANA-MAGNA GRECIA",
+                    "sireNumber": "22750336",
+                    "name": "SUN RISE",
+                    "dateOfBirth": "2022-02-24",
+                    "origin": {
+                        "code": "FR",
+                        "label": "France",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20338808",
+                        "name": "HARAS DE SAINT JULIEN"
+                    },
+                    "sire": {
+                        "techId": "624a8eb7-1c80-34ce-b77b-41dcf7190174",
+                        "funcId": "MAGNA GRECIA--",
+                        "sireNumber": "46423819",
+                        "name": "MAGNA GRECIA",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "20631465-a3c0-3b06-b1aa-5e7b1bf4ec68",
+                        "funcId": "SANTA CHRISTIANA--DANEHILL DANCER",
+                        "sireNumber": "08782072",
+                        "name": "SANTA CHRISTIANA",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "FR",
+                            "label": "France",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "624a8eb7-1c80-34ce-b77b-41dcf7190174",
+                            "funcId": "MAGNA GRECIA--",
+                            "sireNumber": "46423819",
+                            "name": "MAGNA GRECIA",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "IE",
+                                "label": "Irlande",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "7 L",
+                    "label": "7 L",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "1b5e2c7c-e4cb-3c72-a4f9-685932fd00ea",
+                "metaData": null,
+                "runnerNumber": 6,
+                "railPosition": 4,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-6.png",
+                "silksDescription": "GRISE CHEVRON ET M GRENAT T GRISE",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20292559",
+                    "name": "A&G.BOTTI (S)"
+                },
+                "rider": {
+                    "id": "20378582",
+                    "name": "G.SIAS"
+                },
+                "owner": {
+                    "id": "20301478",
+                    "name": "HARAS DU LOGIS SAINT GERMAIN"
+                },
+                "timeRecord": "100",
+                "pace": "62",
+                "rank": 5,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "7e34e5ec-502e-36bd-878a-dcfa809845c5",
+                    "funcId": "ABAGO-AGAIN MUSIC-BATED BREATH",
+                    "sireNumber": "22750132",
+                    "name": "ABAGO",
+                    "dateOfBirth": "2022-02-23",
+                    "origin": {
+                        "code": "FR",
+                        "label": "France",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20301478",
+                        "name": "HARAS DU LOGIS SAINT GERMAIN"
+                    },
+                    "sire": {
+                        "techId": "3c429025-225b-3b49-9694-7020efbfb07f",
+                        "funcId": "BATED BREATH--",
+                        "sireNumber": "46985393",
+                        "name": "BATED BREATH",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "GB",
+                            "label": "Royaume-Uni",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "272e4bb8-bf43-3227-ad77-c4fca36a413a",
+                        "funcId": "AGAIN MUSIC--",
+                        "sireNumber": null,
+                        "name": "AGAIN MUSIC",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": null,
+                        "breed": null,
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "3c429025-225b-3b49-9694-7020efbfb07f",
+                            "funcId": "BATED BREATH--",
+                            "sireNumber": "46985393",
+                            "name": "BATED BREATH",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "GB",
+                                "label": "Royaume-Uni",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "1 L 3/4",
+                    "label": "1 L 3/4",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "ce74fafe-e238-3b43-943d-f6237b40a244",
+                "metaData": null,
+                "runnerNumber": 7,
+                "railPosition": 7,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-7.png",
+                "silksDescription": "BLANCHE CEINTURE M ET T VERTES",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20416055",
+                    "name": "F.CHAPPET (S)"
+                },
+                "rider": {
+                    "id": "20300811",
+                    "name": "C.DEMURO"
+                },
+                "owner": {
+                    "id": "20307122",
+                    "name": "MME J.BIANCO/A.LECLERC/F.BIANCO"
+                },
+                "timeRecord": "100",
+                "pace": "62",
+                "rank": 7,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "e7d4378c-b1ef-3597-9010-dd274cd667fa",
+                    "funcId": "ROSSONERA-AGREED-LOPE DE VEGA",
+                    "sireNumber": "46438019",
+                    "name": "ROSSONERA",
+                    "dateOfBirth": "2022-03-06",
+                    "origin": {
+                        "code": "IE",
+                        "label": "Irlande",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20326340",
+                        "name": "HARAS DU MONT DIT MONT"
+                    },
+                    "sire": {
+                        "techId": "9dfe0408-2617-3720-9bbb-4edc767ec1bc",
+                        "funcId": "LOPE DE VEGA--",
+                        "sireNumber": "46978747",
+                        "name": "LOPE DE VEGA",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "0b9dd841-f110-371d-87cf-e8940eeb639f",
+                        "funcId": "AGREED--GLENEAGLES",
+                        "sireNumber": "46431918",
+                        "name": "AGREED",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "GB",
+                            "label": "Royaume-Uni",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "9dfe0408-2617-3720-9bbb-4edc767ec1bc",
+                            "funcId": "LOPE DE VEGA--",
+                            "sireNumber": "46978747",
+                            "name": "LOPE DE VEGA",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "IE",
+                                "label": "Irlande",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "1 L 1/4",
+                    "label": "1 L 1/4",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "51b44bda-a115-3ec7-86ce-342158a93803",
+                "metaData": null,
+                "runnerNumber": 8,
+                "railPosition": 9,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-8.png",
+                "silksDescription": "BLANCHE M BLEUES T ECARTELEE BLANC ET BLEU",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20292559",
+                    "name": "A&G.BOTTI (S)"
+                },
+                "rider": {
+                    "id": "20218685",
+                    "name": "S.PASQUIER"
+                },
+                "owner": {
+                    "id": "20204220",
+                    "name": "MME M.CAZAUBON/A.KHADDAM"
+                },
+                "timeRecord": "99",
+                "pace": "62",
+                "rank": 3,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "4266576e-0103-3d53-a80b-4a3c24f71afe",
+                    "funcId": "LA FLANDRINE-FELCINE-STUDY OF MAN",
+                    "sireNumber": "46441301",
+                    "name": "LA FLANDRINE",
+                    "dateOfBirth": "2022-03-06",
+                    "origin": {
+                        "code": "GB",
+                        "label": "Royaume-Uni",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20218621",
+                        "name": "ELEVAGE HARAS DE BOURGEAUVILLE"
+                    },
+                    "sire": {
+                        "techId": "a2a78fd7-5016-37f3-b3fd-faf938eb655d",
+                        "funcId": "STUDY OF MAN--",
+                        "sireNumber": "46417343",
+                        "name": "STUDY OF MAN",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "IE",
+                            "label": "Irlande",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "c7438d45-257b-3cde-bab4-1cfca7b30354",
+                        "funcId": "FELCINE--",
+                        "sireNumber": null,
+                        "name": "FELCINE",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": null,
+                        "breed": null,
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "a2a78fd7-5016-37f3-b3fd-faf938eb655d",
+                            "funcId": "STUDY OF MAN--",
+                            "sireNumber": "46417343",
+                            "name": "STUDY OF MAN",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "IE",
+                                "label": "Irlande",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "1 L 1/2",
+                    "label": "1 L 1/2",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            },
+            {
+                "id": "162673d4-bdcb-3e0d-9a84-c43710ea7d69",
+                "metaData": null,
+                "runnerNumber": 9,
+                "railPosition": 2,
+                "railRequested": false,
+                "claimRate": null,
+                "racingStable": null,
+                "distance": null,
+                "calculatedWeight": null,
+                "weightFromConditions": null,
+                "load": null,
+                "mareInFoal": false,
+                "exclusiveInFrance": false,
+                "supplemented": false,
+                "handicapValue": null,
+                "silksPath": "https://assets.racingdata.pmu.fr/silks/20250313/CHA/2/20250313-CHA-2-9.png",
+                "silksDescription": "BLEUE COUTURES M ET T BLANCHES",
+                "hood": false,
+                "trainerOpinion": null,
+                "tongueTie": false,
+                "trainer": {
+                    "id": "20376763",
+                    "name": "CHR.HEAD (S)"
+                },
+                "rider": {
+                    "id": "20265992",
+                    "name": "M.GUYON"
+                },
+                "owner": {
+                    "id": "20211483",
+                    "name": "WERTHEIMER & FRERE"
+                },
+                "timeRecord": "99",
+                "pace": "62",
+                "rank": 4,
+                "finishComment": null,
+                "blinkers": {
+                    "code": "N",
+                    "label": "Aucune",
+                    "language": "fr"
+                },
+                "status": {
+                    "code": "DP",
+                    "label": "Déclaré Partant",
+                    "language": "fr"
+                },
+                "shoes": null,
+                "horse": {
+                    "techId": "b7da27bb-4032-3f9b-87d3-8a9ef8139fd4",
+                    "funcId": "WAVE-OCEANIQUE-NO NAY NEVER",
+                    "sireNumber": "22750200",
+                    "name": "WAVE",
+                    "dateOfBirth": "2022-03-11",
+                    "origin": {
+                        "code": "FR",
+                        "label": "France",
+                        "language": "fr"
+                    },
+                    "breed": {
+                        "code": "PS",
+                        "label": "Pur-sang",
+                        "language": "fr"
+                    },
+                    "gender": {
+                        "code": "F",
+                        "label": "Femelle",
+                        "language": "fr"
+                    },
+                    "colour": {
+                        "code": "BAI",
+                        "label": "BAI",
+                        "language": "fr"
+                    },
+                    "gait": {
+                        "code": "G",
+                        "label": "Galop",
+                        "language": "fr"
+                    },
+                    "age": 3,
+                    "yearOfBirth": 2022,
+                    "yearOfCastration": null,
+                    "breeder": {
+                        "id": "20211483",
+                        "name": "WERTHEIMER & FRERE"
+                    },
+                    "sire": {
+                        "techId": "42ef4b0b-dcd1-38c2-894d-21579d1fdb20",
+                        "funcId": "NO NAY NEVER--",
+                        "sireNumber": "46401544",
+                        "name": "NO NAY NEVER",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": {
+                            "code": "US",
+                            "label": "États-Unis",
+                            "language": "fr"
+                        },
+                        "breed": {
+                            "code": "PS",
+                            "label": "Pur-sang",
+                            "language": "fr"
+                        },
+                        "gender": null,
+                        "colour": null,
+                        "gait": null
+                    },
+                    "dam": {
+                        "techId": "95555c40-5e07-3125-bf49-6d0a84a2331c",
+                        "funcId": "OCEANIQUE--",
+                        "sireNumber": null,
+                        "name": "OCEANIQUE",
+                        "dateOfBirth": "",
+                        "yearOfBirth": null,
+                        "origin": null,
+                        "breed": null,
+                        "gender": null,
+                        "colour": null,
+                        "gait": null,
+                        "sire": {
+                            "techId": "42ef4b0b-dcd1-38c2-894d-21579d1fdb20",
+                            "funcId": "NO NAY NEVER--",
+                            "sireNumber": "46401544",
+                            "name": "NO NAY NEVER",
+                            "dateOfBirth": "",
+                            "yearOfBirth": null,
+                            "origin": {
+                                "code": "US",
+                                "label": "États-Unis",
+                                "language": "fr"
+                            },
+                            "breed": {
+                                "code": "PS",
+                                "label": "Pur-sang",
+                                "language": "fr"
+                            },
+                            "gender": null,
+                            "colour": null,
+                            "gait": null
+                        }
+                    }
+                },
+                "spread": {
+                    "code": "CTE ENC.",
+                    "label": "Courte encolure",
+                    "language": "fr"
+                },
+                "trainingCountry": {
+                    "code": "FR",
+                    "label": "France",
+                    "language": "fr"
+                },
+                "comparableOpponents": [],
+                "records": null,
+                "earnings": null,
+                "statistics": {
+                    "earnings": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "currentYearTotal": null,
+                        "lastYearTotal": null
+                    },
+                    "participations": {
+                        "careerTotal": null,
+                        "careerWin": null,
+                        "careerPlace": null,
+                        "careerDetails": [],
+                        "currentYearTotal": null,
+                        "currentYearDetails": [],
+                        "lastYearTotal": null,
+                        "lastYearDetails": []
+                    },
+                    "bestPerformance": {
+                        "timeRecord": null,
+                        "distance": null,
+                        "discipline": null,
+                        "startingMode": null,
+                        "racecourse": null
+                    }
+                }
+            }
+        ]
+    }
+]
